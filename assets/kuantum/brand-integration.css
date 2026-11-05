@@ -1,0 +1,12 @@
+/* Logo uses native alpha transparency; preserve its original colors. */
+img[src*="murat-egitim-universite-logo"] { mix-blend-mode: normal; }
+
+/* Standalone continuous publisher strip; does not depend on Elementor/Swiper. */
+.kuantum-publisher-strip { width:100%; min-width:0; overflow:hidden; visibility:visible; }
+.kuantum-publisher-track { display:flex; width:max-content; animation:kuantum-publishers 24s linear infinite; will-change:transform; }
+.kuantum-publisher-group { display:flex; flex:none; align-items:center; gap:28px; padding-right:28px; }
+.kuantum-publisher-group img { width:160px; height:55px; flex:none; object-fit:contain; }
+.kuantum-publisher-strip:hover .kuantum-publisher-track { animation-play-state:paused; }
+@keyframes kuantum-publishers { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+@media(max-width:767px) { .kuantum-publisher-group { gap:20px; padding-right:20px; } .kuantum-publisher-group img { width:130px; height:50px; } }
+@media(prefers-reduced-motion:reduce) { .kuantum-publisher-track { animation:none; } .kuantum-publisher-strip { overflow-x:auto; } }
