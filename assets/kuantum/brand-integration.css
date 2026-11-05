@@ -10,3 +10,17 @@ img[src*="murat-egitim-universite-logo"] { mix-blend-mode: normal; }
 @keyframes kuantum-publishers { from { transform:translateX(0); } to { transform:translateX(-50%); } }
 @media(max-width:767px) { .kuantum-publisher-group { gap:20px; padding-right:20px; } .kuantum-publisher-group img { width:130px; height:50px; } }
 @media(prefers-reduced-motion:reduce) { .kuantum-publisher-track { animation:none; } .kuantum-publisher-strip { overflow-x:auto; } }
+
+/* Testimonials remain sharp during scroll, hover, drag and slide transitions. */
+[data-id="aba7784"],
+[data-id="aba7784"] *,
+[data-id="aba7784"] *::before,
+[data-id="aba7784"] *::after {
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+[data-id="ba9b995"] .thim-ekits-testimonial__client-content {
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  background-color: rgba(255,255,255,.92);
+}
