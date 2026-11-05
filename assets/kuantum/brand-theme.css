@@ -1,0 +1,67 @@
+/* Kuantum: navy / gold / warm white. No changes to geometry or carousel logic. */
+:root, body.elementor-kit-34301 {
+ --kuantum-navy:#0b2035; --kuantum-gold:#c99b45; --kuantum-gold-ink:#876321;
+ --e-global-color-primary:#0b2035; --e-global-color-secondary:#c99b45;
+ --e-global-color-text:#334155; --e-global-color-accent:#0b2035;
+ --e-global-color-f06cac9:#f4ebd7; --e-global-color-8030683:#f7f7f5;
+ --e-global-color-a5df7df:#e5dfd2;
+}
+body { color:#334155; background-color:#fff; accent-color:#0b2035; }
+h1,h2,h3,h4,h5,h6 { color:#0b2035; }
+a { color:#0b2035; }
+a:hover,a:focus-visible { color:#876321; }
+#masthead { background:linear-gradient(115deg,#f5ecd8 0%,#f8fafb 48%,#dfe8ee 100%) !important; }
+#masthead .menu-item > a, #masthead .thim-ekits-menu__nav-link { color:#0b2035 !important; }
+#masthead .current-menu-item > a, #masthead .menu-item > a:hover { color:#876321 !important; }
+.thim-ekits-button a, .thim-ekit__button, .btn-primary,
+button[type="submit"], input[type="submit"], .elementor-button,
+.btn-back-to-top { background:#0b2035 !important; color:#fff !important; border-color:#0b2035 !important; }
+.thim-ekits-button a:hover, .elementor-button:hover, .btn-primary:hover,
+button[type="submit"]:hover, input[type="submit"]:hover, .btn-back-to-top:hover {
+ background:#c99b45 !important; color:#0b2035 !important; border-color:#c99b45 !important;
+}
+.thim-ekits-button a svg,.elementor-button svg { fill:currentColor; }
+.thim-ekits-course__read-more { color:#876321 !important; }
+.nav-tabs .active > a, .cat-item.active a { color:#876321 !important; }
+.swiper-pagination-bullet-active { background:#c99b45 !important; }
+.elementor-icon-box-icon .elementor-icon { color:#876321; }
+.elementor-icon-box-icon svg { fill:#876321; }
+input:focus,textarea:focus,select:focus { border-color:#876321 !important; outline-color:#c99b45; }
+:focus-visible { outline:2px solid #876321; outline-offset:4px; }
+/* Preserve soft section-to-white transitions in the brand palette. */
+.elementor-33757 .elementor-element.elementor-element-cd6d5a0,
+.elementor-33757 .elementor-element.elementor-element-aba7784,
+.elementor-33757 .elementor-element.elementor-element-01f9a54 {
+ background-image:radial-gradient(ellipse at 12% 45%,#f4e6c9 0%,transparent 55%),radial-gradient(ellipse at 90% 60%,#e1e8ed 0%,#fff 65%) !important;
+}
+.thim-ekit__footer .elementor-element.elementor-element-8995337 {
+ background-image:linear-gradient(120deg,#f4ead5 0%,#fff 45%,#e3eaf0 100%) !important;
+}
+.thim-ekit__footer h5, .thim-ekit__footer a, .thim-ekit__footer .focused-text { color:#0b2035; }
+@media(prefers-reduced-motion:no-preference) {
+ .thim-ekits-button a,.elementor-button { transition:background-color .2s ease,color .2s ease; }
+}
+
+:root {
+ --phys-body_primary_color:#0b2035; --phys-body_primary_color-rgb:11,32,53;
+ --phys-body_primary_color_hover:#c99b45; --phys-button_color_hover:#0b2035;
+ --phys-main_menu_color-text_color:#0b2035; --phys-main_menu_color-text_color_hover:#876321;
+ --phys-sticky_menu-text_color:#0b2035; --phys-sticky_menu-text_color_hover:#876321;
+ --phys-sub_menu-text_color:#0b2035; --phys-sub_menu-text_color_hover:#876321;
+ --phys-nav_mobile_color-hover:#876321; --phys-light_color:#f4ebd7;
+ --phys-border_color:#e5dfd2; --phys-font_title-color:#0b2035;
+ --phys-theme_feature_preloading_style-color:#c99b45;
+ --lp-primary-color:#0b2035; --lp-secondary-color:#876321;
+}
+
+/* Hero: replace the original cyan bitmap surround with warm ivory / gold. */
+#masthead { background:linear-gradient(115deg,#f3e7ca 0%,#fffdf8 55%,#f8efd9 100%) !important; }
+.elementor-33757 .elementor-element.elementor-element-ef76a59:not(.elementor-motion-effects-element-type-background),
+.elementor-33757 .elementor-element.elementor-element-ef76a59 > .elementor-motion-effects-container > .elementor-motion-effects-layer,
+.elementor-33757 .elementor-element.elementor-element-47da38ea:not(.elementor-motion-effects-element-type-background),
+.elementor-33757 .elementor-element.elementor-element-47da38ea > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+ background-color:#fbf8f1 !important;
+ background-image:radial-gradient(ellipse at 0% 12%,#eeddb7 0%,transparent 58%),linear-gradient(120deg,#faf5e9 0%,#fffdf8 50%,#f1e5ca 100%) !important;
+}
+[data-id="ef76a59"] .elementor-swiper-button,
+[data-id="47da38ea"] .elementor-swiper-button { color:#0b2035 !important; }
