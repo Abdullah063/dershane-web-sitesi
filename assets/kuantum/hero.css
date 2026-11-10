@@ -1,0 +1,28 @@
+/* Native static carousel: images remain visible without Elementor or JavaScript. */
+.kuantum-hero { position:relative; width:100%; overflow:hidden; background:#fbf8f1; }
+.kuantum-hero-slide { display:block; width:100%; }
+.kuantum-hero-slide[hidden] { display:none; }
+.kuantum-hero-slide img { display:block; width:100%; height:auto; max-height:75vh; object-fit:contain; }
+.kuantum-hero > button { position:absolute; top:50%; transform:translateY(-50%); width:40px; height:48px; border:0; border-radius:8px; background:rgba(11,32,53,.7); color:white; font-size:32px; cursor:pointer; padding:0; }
+.kuantum-hero-prev { left:12px; }
+.kuantum-hero-next { right:12px; }
+.kuantum-hero-dots { position:absolute; bottom:10px; left:50%; transform:translateX(-50%); display:flex; gap:8px; padding:8px; border-radius:20px; background:rgba(255,255,255,.8); }
+.kuantum-hero-dots button { width:10px; height:10px; min-height:0; border:0; border-radius:50%; background:#84909a; padding:0; cursor:pointer; }
+.kuantum-hero-dots button[aria-pressed="true"] { background:#876321; }
+
+/* Continuous subject strip with two identical groups for a seamless loop. */
+.kuantum-subjects { width:100%; min-width:0; overflow:hidden; }
+.kuantum-subject-track { display:flex; width:max-content; animation:kuantum-subject-scroll 24s linear infinite; }
+.kuantum-subject-group { display:flex; flex:none; align-items:center; gap:28px; padding-right:28px; }
+.kuantum-subject-group img { display:block; flex:none; width:220px; height:auto; object-fit:contain; }
+.kuantum-subjects:hover .kuantum-subject-track { animation-play-state:paused; }
+@keyframes kuantum-subject-scroll { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+@media(max-width:767px) {
+ .kuantum-subject-group { gap:16px; padding-right:16px; }
+ .kuantum-subject-group img { width:180px; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .kuantum-subject-track { animation:none; }
+ .kuantum-subjects { overflow-x:auto; }
+ .kuantum-subject-group[aria-hidden="true"] { display:none; }
+}
