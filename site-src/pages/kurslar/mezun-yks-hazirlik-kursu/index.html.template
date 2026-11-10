@@ -442,16 +442,10 @@ var lpGlobalSettings = {"siteurl":"https://kuantum.abdullahaltun.com.tr","ajax":
 					            <span class="featured-review__icon"><svg class="e-font-icon-svg e-fas-quote-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z"></path></svg></span>
 
 <div class="course-featured-review margin-bottom">
-	<div class="featured-review__title">Öğrenci Yorumları</div>
-	<div class="featured-review__stars">
-		<i class="lp-icon-star"></i>
-		<i class="lp-icon-star"></i>
-		<i class="lp-icon-star"></i>
-		<i class="lp-icon-star"></i>
-		<i class="lp-icon-star"></i>
-	</div>
+	<div class="featured-review__title">Program Özeti</div>
+
 	<div class="featured-review__content">
-		<p>Tavsiye üzerine geldim, gerçekten söyledikleri her şeyi yaptılar ve hedefime ulaştım. En büyük korkum, dershanelerde öğrencilerin başarı seviyelerine göre öğretmen ayırmalarıydı. Sadece iyi öğrencilerle ilgilenirler diye endişeliydim. Ancak normal bir Anadolu lisesinden gelmeme rağmen aynı kaliteli öğretmenler bize de ders verdi. Hatta rehberlik ve ek ders desteği bizlere daha fazla sunuldu. Kesinlikle Eğitim Merkezi’de gidebileceğiniz en iyi kurumlardan biri. Seneye kardeşimi de yazdıracağız.</br></p>
+		<p>Tavsiye üzerine geldim, gerçekten söyledikleri her şeyi yaptılar ve hedefime ulaştım. En büyük korkum, dershanelerde öğrencilerin başarı seviyelerine göre öğretmen ayırmalarıydı. Sadece iyi öğrencilerle ilgilenirler diye endişeliydim. Ancak normal bir Anadolu lisesinden gelmeme rağmen aynı kaliteli öğretmenler bize de ders verdi. Hatta rehberlik ve ek ders desteği bizlere daha fazla sunuldu. Kesinlikle Kuantum Sayısal Akademi’de gidebileceğiniz en iyi kurumlardan biri. Seneye kardeşimi de yazdıracağız.</br></p>
 <p style="text-align: right"><em><strong>Samet Öztürk</strong></em><br />
 <em>Öğrenci</em></p>
 	</div>
@@ -497,11 +491,11 @@ var lpGlobalSettings = {"siteurl":"https://kuantum.abdullahaltun.com.tr","ajax":
 						<div class="thim-ekits-post__content">
 				<h3 class="thim-ekits-post__title">
 		<a href="../../deneme-kulubu/index.html" >
-			Eğitim Merkezi Deneme Kulübü		</a>
+			Kuantum Sayısal Akademi Deneme Kulübü		</a>
 		</h3>
 
 		<div class="thim-ekits-post__excerpt">
-			“Başarıya Giden Yolun En Güvenilir Sınav Merkezi” Üniversiteye hazırlık sürecinde doğru kaynaklarla, güvenilir sınavlarla ve gerçek sınav atmosferiyle çalışmak büyük fark yaratır. Eğitim Merkezi...		</div>
+			“Başarıya Giden Yolun En Güvenilir Sınav Merkezi” Üniversiteye hazırlık sürecinde doğru kaynaklarla, güvenilir sınavlarla ve gerçek sınav atmosferiyle çalışmak büyük fark yaratır. Kuantum Sayısal Akademi...		</div>
 
 				<a class="thim-ekits-post__read-more"
 		   href="../../deneme-kulubu/index.html" >
@@ -650,13 +644,13 @@ var lpGlobalSettings = {"siteurl":"https://kuantum.abdullahaltun.com.tr","ajax":
 		    }
 }
 </style>
-<a href="#" id="okapi-wasb-button" target="_blank">
+<a href="{{contact_whatsapp}}" aria-label="WhatsApp üzerinden iletişime geçin" rel="noopener noreferrer" id="okapi-wasb-button" target="_blank">
 	<img id="okapi-wasb-icon" src="../../wp-content/plugins/wa-sticky-button/assets/default.png">
 </a>		<div data-elementor-type="popup" data-elementor-id="35939" class="elementor elementor-35939 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomOut&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-44dd25df e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="44dd25df" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
 				<div class="elementor-element elementor-element-515fc243 elementor-widget elementor-widget-image" data-id="515fc243" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="../../kayit-ve-basvuru/index.html">
-							<img loading="lazy" width="1455" height="1600" src="../../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Eğitim Merkezi öğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="../../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
+							<img loading="lazy" width="1455" height="1600" src="../../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alın" srcset="../../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
 															</div>
 		<div class="elementor-element elementor-element-7786bfb e-flex e-con-boxed e-con e-child" data-id="7786bfb" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">

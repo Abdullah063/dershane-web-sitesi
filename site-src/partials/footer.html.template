@@ -26,7 +26,7 @@
 				<div class="elementor-element elementor-element-9fe6d4a elementor-widget elementor-widget-heading" data-id="9fe6d4a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 					<h5 class="elementor-heading-title elementor-size-default">Hakkımızda</h5>				</div>
 				<div class="elementor-element elementor-element-bb771b8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="bb771b8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-									<p>Ders, ödev ve deneme takibiyle öğrencilerin eğitim süreci desteklenir.&#8217;den bu yana öğrencilerimizin akademik ve kişisel gelişimlerini desteklemek için çalışıyoruz. Uzman eğitimci kadromuz ve yenilikçi eğitim yaklaşımımızla, İstanbul&#8217;un ve Türkiye&#8217;nin dört bir yanından gelen öğrencilere kaliteli ve kişiselleştirilmiş eğitim hizmetleri sunuyoruz.<!-- notionvc: bf495829-4037-49d4-ab53-8030483786fb --></p>								</div>
+									<p>Kuantum Sayısal Akademi, Eskişehir Odunpazarı’nda lise öğrencilerine ve YKS’ye hazırlanan adaylara yönelik eğitim programları sunar. Amacımız, öğrencilerin konuları anlayarak öğrenmesini, düzenli çalışma alışkanlığı kazanmasını ve hedeflerine planlı biçimde ilerlemesini desteklemektir.</p>								</div>
 				<div class="elementor-element elementor-element-33971cf elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="33971cf" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
 							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
 							<span class="elementor-grid-item" role="listitem">
@@ -55,6 +55,11 @@
 							<div class="header-info-swapper">
 			<ul class="thim-header-info">
 										<li>
+														<a href="{{root}}9-sinif-egitim-kursu.html">
+
+								9. Sınıf Eğitim Programı
+															</a>
+												</li><li>
 														<a href="{{root}}10-sinif-egitim-kursu.html">
 
 								10. Sınıf Eğitim Programı
@@ -127,19 +132,19 @@
 							<div class="header-info-swapper">
 			<ul class="thim-header-info">
 										<li>
-														<a href="#" target="_blank">
+														<a href="{{contact_tel}}" target="_blank">
 																									<span>
-									<i aria-hidden="true" class="tk tk-phone"></i>								</span>Telefon bilgisi eklenecektir.</a>
+									<i aria-hidden="true" class="tk tk-phone"></i>								</span>{{contact_phone}}</a>
 												</li>
 												<li>
-														<a href="#" target="_blank">
+														<a href="{{contact_mailto}}" target="_blank">
 																									<span>
-									<i aria-hidden="true" class="tk tk-envelope"></i>								</span>E-posta bilgisi eklenecektir.</a>
+									<i aria-hidden="true" class="tk tk-envelope"></i>								</span>{{contact_email}}</a>
 												</li>
 												<li>
-														<a href="#" target="_blank">
+														<a href="{{contact_map}}" target="_blank">
 																									<span>
-									<i aria-hidden="true" class="tk tk-map-marker"></i>								</span>Adres bilgisi daha sonra eklenecektir.</a>
+									<i aria-hidden="true" class="tk tk-map-marker"></i>								</span>{{contact_address}}</a>
 												</li>
 									</ul>
 		</div>
@@ -158,7 +163,7 @@
 				<div class="elementor-widget-container">
 
 		<div class="thim-ekit-site-logo">
-							<a href="{{root}}index.html" rel="home" aria-label="Eğitim Merkezi">
+							<a href="{{root}}index.html" rel="home" aria-label="Kuantum Sayısal Akademi">
 					<img src="{{root}}wp-content/uploads/2025/08/akademi-logo.svg" title="" alt="" loading="lazy" />				</a>
 					</div>
 
@@ -170,7 +175,7 @@
 			<ul class="thim-header-info">
 										<li>
 
-								 Her Hakkı Saklıdır © <span class="focused-text">Eğitim Merkezi</span> 2025.
+								 Her Hakkı Saklıdır © <span class="focused-text">Kuantum Sayısal Akademi</span> 2025.
 														</li>
 									</ul>
 		</div>

@@ -4,6 +4,7 @@ Bu yapı mevcut HTML, CSS ve animasyonları korur. WordPress, Node.js veya yeni 
 
 ## Hangi dosya düzenlenir?
 
+- Adres, telefon, e-posta, WhatsApp ve harita: `site-src/site.json`
 - Üst menü ve ortak header: `site-src/partials/header.html.template`
 - Ortak alt bölüm: `site-src/partials/footer.html.template`
 - Ana sayfa içeriği: `site-src/pages/index.html.template`

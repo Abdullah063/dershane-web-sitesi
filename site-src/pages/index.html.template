@@ -290,7 +290,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-6556c4e animated-slow elementor-invisible elementor-widget elementor-widget-thim-ekits-heading" data-id="6556c4e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title"><i>Gerçek Sınava Hazırlık</i></h2>			<div class='desc'>
-				<p>Deneme sınavları, öğrencilerin sınav pratiği kazanmasına ve gelişimlerini takip etmesine yardımcı olur. Uygulanacak yayınlar ve deneme takvimi kurum tarafından duyurulacaktır.</p>			</div>
+				<p>Deneme sınavlarıyla sınav pratiğini güçlendir, zaman kullanımını değerlendir ve konu eksiklerini belirle. Güncel yayınlar ve deneme takvimi hakkında bilgi almak için bizimle iletişime geç.</p>			</div>
 		</div>				</div>
 				</div>
 				</div>
@@ -304,7 +304,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Kurslarımızı Keşfedin, <b><br><i>Potansiyelinizi Gerçeğe Dönüştürün</i></b></h2></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-269c4d4 elementor-widget elementor-widget-text-editor" data-id="269c4d4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-									<p><strong>Eğitim Merkezi</strong>’in özel mentörlük sistemi ve uzman öğretmen kadrosuyla hazırlanan kurslarımız, akademik başarınızı güçlendirmek ve sizi hedeflediğiniz üniversiteye ulaştırmak için tasarlandı.</p>								</div>
+									<p><strong>Kuantum Sayısal Akademi</strong>’in özel mentörlük sistemi ve uzman öğretmen kadrosuyla hazırlanan kurslarımız, akademik başarınızı güçlendirmek ve sizi hedeflediğiniz üniversiteye ulaştırmak için tasarlandı.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-7a1600c physc-tabs-flex animated-slow elementor-invisible elementor-widget elementor-widget-thim-ekits-list-course" data-id="7a1600c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;ekit--slide-up&quot;,&quot;column_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:2,&quot;slidesPerView_mobile&quot;:1,&quot;slidesPerGroup_mobile&quot;:1,&quot;column_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;column_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;spaceBetween&quot;:30,&quot;spaceBetween_mobile&quot;:&quot;15&quot;,&quot;slider_speed&quot;:1000,&quot;slider_autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:1000,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;centered_slides&quot;:&quot;no&quot;,&quot;slider_show_pagination&quot;:&quot;none&quot;}" data-widget_type="thim-ekits-list-course.default">
 				<div class="elementor-widget-container">
@@ -551,37 +551,37 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-89e8be7 physc-center elementor-widget elementor-widget-counter" data-id="89e8be7" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Başarıyla Mezun Olan Öğrenci</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="9" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-9b31589 elementor-widget elementor-widget-counter" data-id="9b31589" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Bizimle Öğrenenler</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="60" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="10" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-436e2aa elementor-widget elementor-widget-counter" data-id="436e2aa" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Memnuniyet Skoru</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="99" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">%</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="11" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-81a156b elementor-widget elementor-widget-counter" data-id="81a156b" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Büyüyen Eğitim Ailemiz</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="300" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="12" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
@@ -684,8 +684,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		<div class="elementor-element elementor-element-00f7c68 e-con-full e-transform e-flex e-con e-child" data-id="00f7c68" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-2,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
 				<div class="elementor-element elementor-element-9bacdd2 elementor-invisible elementor-widget elementor-widget-thim-ekits-heading" data-id="9bacdd2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;ekit--scale&quot;}" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
-					<div class="thim-ekits-heading thim-ekit__heading"><h3 class="title">Eğitim Merkezi Ailesine Katılın</h3>			<div class='desc'>
-				<p>Alanında uzman, deneyimli eğitmenlerle büyümeye devam ediyoruz. Siz de Eğitim Merkezi’nin güçlü kadrosuna katılmak isterseniz, başvurunuzu hemen iletin.</p>			</div>
+					<div class="thim-ekits-heading thim-ekit__heading"><h3 class="title">Kuantum Sayısal Akademi Ailesine Katılın</h3>			<div class='desc'>
+				<p>Alanında uzman, deneyimli eğitmenlerle büyümeye devam ediyoruz. Siz de Kuantum Sayısal Akademi’nin güçlü kadrosuna katılmak isterseniz, başvurunuzu hemen iletin.</p>			</div>
 		</div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-8d65e55 elementor-invisible elementor-widget elementor-widget-thim-ekits-button" data-id="8d65e55" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;ekit--scale&quot;}" data-widget_type="thim-ekits-button.default">
@@ -729,7 +729,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-e8cc3bd elementor-widget elementor-widget-thim-ekits-heading" data-id="e8cc3bd" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Sıkça Sorulan Sorular</h2>			<div class='desc'>
-				<p class="p1"><b>Eğitim Merkezi Şubesi hakkında en çok merak edilen soruları senin için cevapladık.</b><b></b></p><p class="p2">Eğitim programlarımızdan kadromuza, deneme sisteminden rehberlik hizmetlerimize kadar aklına takılan pek çok sorunun yanıtını aşağıda bulabilirsin.</p>			</div>
+				<p class="p1"><b>Kuantum Sayısal Akademi hakkında en çok merak edilen soruları senin için cevapladık.</b><b></b></p><p class="p2">Eğitim programlarımızdan kadromuza, deneme sisteminden rehberlik hizmetlerimize kadar aklına takılan pek çok sorunun yanıtını aşağıda bulabilirsin.</p>			</div>
 		</div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-700ed81 elementor-widget elementor-widget-thim-ekits-accordion" data-id="700ed81" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-accordion.default">
@@ -741,7 +741,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="accordion-section">
 						<div class="accordion-title" aria-selected="true" role="tab" tabindex="0" aria-controls="item-acc-700ed81-1">
 							<span class="accordion-title-text">
-																Eğitim Merkezi Şubesi hangi sınıf düzeylerine eğitim veriyor?							</span>
+																Kuantum Sayısal Akademi hangi sınıf düzeylerine eğitim veriyor?							</span>
 															<span class="accordion-icon">
 									<span
 										class="accordion-icon-closed"><i class="tk tk-minus"></i></span>
@@ -754,7 +754,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							 role="tabpanel"
 							 aria-labelledby="item-acc-700ed81-1"
 							 tabindex="0" >
-							<p>Eğitim Merkezi Şubemiz, 10. 11. ve 12. Sınıf Eğitim Programları, YKS Hazırlık Programları ile geniş bir yelpazede eğitim hizmeti sunar. Ayrıca mezun gruplarımız da mevcuttur.</p>						</div>
+							<p>Kuantum Sayısal Akademi, 9, 10, 11 ve 12. sınıf eğitim programları, YKS Hazırlık Programları ile geniş bir yelpazede eğitim hizmeti sunar. Ayrıca mezun gruplarımız da mevcuttur.</p>						</div>
 					</div>
 
 
@@ -834,7 +834,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							 role="tabpanel"
 							 aria-labelledby="item-acc-700ed81-5"
 							 tabindex="-1" hidden>
-							<p class="p1">Eğitmen kadromuz, pedagojik formasyonu olan, sınav müfredatına ve soru tarzlarına hâkim, deneyimli ve iletişimi güçlü öğretmenlerden titizlikle seçilmektedir. Eğitim Merkezi’in kalitesini yansıtan nitelikli bir kadro ile çalışıyoruz.</p>						</div>
+							<p class="p1">Eğitmen kadromuz, pedagojik formasyonu olan, sınav müfredatına ve soru tarzlarına hâkim, deneyimli ve iletişimi güçlü öğretmenlerden titizlikle seçilmektedir. Kuantum Sayısal Akademi’nin kalitesini yansıtan nitelikli bir kadro ile çalışıyoruz.</p>						</div>
 					</div>
 
 							</div>
@@ -845,14 +845,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		<div class="elementor-element elementor-element-6dbb4e5 e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="6dbb4e5" data-element_type="container" data-e-type="container">
 		<div class="elementor-element elementor-element-6157697 e-con-full animated-slow e-flex elementor-invisible e-con e-child" data-id="6157697" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;ekit--slide-right&quot;}">
 				<div class="elementor-element elementor-element-f12155f elementor-widget elementor-widget-image" data-id="f12155f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="640" height="736" src="wp-content/uploads/2026/07/image1-891x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36125" alt="Eğitim Merkezi öğrencisi Türkiye 12.si - YKS başarı hikayesiöğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="wp-content/uploads/2026/07/image1-891x1024.jpeg 891w, wp-content/uploads/2026/07/image1-261x300.jpeg 261w, wp-content/uploads/2026/07/image1-768x883.jpeg 768w, wp-content/uploads/2026/07/image1-1336x1536.jpeg 1336w, wp-content/uploads/2026/07/image1.jpeg 1440w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
+															<img loading="lazy" decoding="async" width="640" height="736" src="wp-content/uploads/2026/07/image1-891x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36125" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alınöğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="wp-content/uploads/2026/07/image1-891x1024.jpeg 891w, wp-content/uploads/2026/07/image1-261x300.jpeg 261w, wp-content/uploads/2026/07/image1-768x883.jpeg 768w, wp-content/uploads/2026/07/image1-1336x1536.jpeg 1336w, wp-content/uploads/2026/07/image1.jpeg 1440w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
 				<div class="elementor-element elementor-element-c5c740c elementor-widget elementor-widget-image" data-id="c5c740c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 															<img loading="lazy" decoding="async" width="640" height="853" src="wp-content/uploads/2026/07/image8-768x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36134" alt="" srcset="wp-content/uploads/2026/07/image8-768x1024.jpeg 768w, wp-content/uploads/2026/07/image8-225x300.jpeg 225w, wp-content/uploads/2026/07/image8-1152x1536.jpeg 1152w, wp-content/uploads/2026/07/image8.jpeg 1200w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-34ce3b2 e-con-full animated-slow e-flex elementor-invisible e-con e-child" data-id="34ce3b2" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;ekit--slide-left&quot;}">
 		<div class="elementor-element elementor-element-35c5019 e-con-full animated-slow e-flex elementor-invisible e-con e-child" data-id="35c5019" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;ekit--slide-right&quot;}">
 				<div class="elementor-element elementor-element-9f5902c elementor-widget elementor-widget-image" data-id="9f5902c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="576" height="1024" src="wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-576x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36251" alt="Eğitim Merkezi&#x27;nın 2026 üniversite sonuçları başarı görseli. Tabloda 45 Tıp, 12 Diş Hekimliği, 9 Eczacılık, 147 Mühendislik ve 17 Hukuk kazanan öğrencilerin istatistikleri yer almaktadır." srcset="wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-576x1024.jpeg 576w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-169x300.jpeg 169w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-768x1365.jpeg 768w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-864x1536.jpeg 864w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2.jpeg 900w" sizes="(max-width: 576px) 100vw, 576px" />															</div>
+															<img loading="lazy" decoding="async" width="576" height="1024" src="wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-576x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36251" alt="Kuantum Sayısal Akademi&#x27;nın 2026 üniversite sonuçları başarı görseli. Tabloda 45 Tıp, 12 Diş Hekimliği, 9 Eczacılık, 147 Mühendislik ve 17 Hukuk kazanan öğrencilerin istatistikleri yer almaktadır." srcset="wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-576x1024.jpeg 576w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-169x300.jpeg 169w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-768x1365.jpeg 768w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2-864x1536.jpeg 864w, wp-content/uploads/2026/08/2026-basari-tablosu-tip-muhendislik2.jpeg 900w" sizes="(max-width: 576px) 100vw, 576px" />															</div>
 				<div class="elementor-element elementor-element-e663d90 elementor-widget elementor-widget-image" data-id="e663d90" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 															<img loading="lazy" decoding="async" width="640" height="853" src="wp-content/uploads/2026/07/image7-768x1024.jpeg" class="elementor-animation-hang attachment-large size-large wp-image-36129" alt="" srcset="wp-content/uploads/2026/07/image7-768x1024.jpeg 768w, wp-content/uploads/2026/07/image7-225x300.jpeg 225w, wp-content/uploads/2026/07/image7-1152x1536.jpeg 1152w, wp-content/uploads/2026/07/image7.jpeg 1200w" sizes="(max-width: 640px) 100vw, 640px" />															</div>
 				</div>
@@ -909,7 +909,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		</h5>
 		 		<div class="thim-ekits-post__meta elementor-repeater-item-3b70b55 m-psi-start ">
 					<span class="thim-ekits-post__author">
-						by <a href="author/kuantum/index.html">Eğitim Merkezi</a>		</span>
+						by <a href="author/kuantum/index.html">Kuantum Sayısal Akademi</a>		</span>
 							<span class="thim-ekits-post__read-time">
 						2 Dakika Okuma
 					</span>
@@ -936,11 +936,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 				<h5 class="thim-ekits-post__title">
 		<a href="deneme-kulubu/index.html" >
-			Eğitim Merkezi Deneme Kulübü		</a>
+			Kuantum Sayısal Akademi Deneme Kulübü		</a>
 		</h5>
 		 		<div class="thim-ekits-post__meta elementor-repeater-item-3b70b55 m-psi-start ">
 					<span class="thim-ekits-post__author">
-						by <a href="author/kuantum/index.html">Eğitim Merkezi</a>		</span>
+						by <a href="author/kuantum/index.html">Kuantum Sayısal Akademi</a>		</span>
 							<span class="thim-ekits-post__read-time">
 						1 Dakika Okuma					</span>
 							</div>
@@ -970,7 +970,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		</h5>
 		 		<div class="thim-ekits-post__meta elementor-repeater-item-3b70b55 m-psi-start ">
 					<span class="thim-ekits-post__author">
-						by <a href="author/kuantum/index.html">Eğitim Merkezi</a>		</span>
+						by <a href="author/kuantum/index.html">Kuantum Sayısal Akademi</a>		</span>
 							<span class="thim-ekits-post__read-time">
 						2 Dakika Okuma
 					</span>
@@ -1001,7 +1001,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		</h5>
 		 		<div class="thim-ekits-post__meta elementor-repeater-item-3b70b55 m-psi-start ">
 					<span class="thim-ekits-post__author">
-						by <a href="author/kuantum/index.html">Eğitim Merkezi</a>		</span>
+						by <a href="author/kuantum/index.html">Kuantum Sayısal Akademi</a>		</span>
 							<span class="thim-ekits-post__read-time">
 						2 Dakika Okuma
 					</span>
@@ -1053,13 +1053,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		    }
 }
 </style>
-<a href="#" id="okapi-wasb-button" target="_blank">
+<a href="{{contact_whatsapp}}" aria-label="WhatsApp üzerinden iletişime geçin" rel="noopener noreferrer" id="okapi-wasb-button" target="_blank">
 	<img id="okapi-wasb-icon" src="wp-content/plugins/wa-sticky-button/assets/default.png">
 </a>		<div data-elementor-type="popup" data-elementor-id="35939" class="elementor elementor-35939 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomOut&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-44dd25df e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="44dd25df" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
 				<div class="elementor-element elementor-element-515fc243 elementor-widget elementor-widget-image" data-id="515fc243" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="kayit-ve-basvuru/index.html">
-							<img width="1455" height="1600" src="wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Eğitim Merkezi öğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="wp-content/uploads/2026/02/erdemderece.jpeg 1455w, wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
+							<img width="1455" height="1600" src="wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alın" srcset="wp-content/uploads/2026/02/erdemderece.jpeg 1455w, wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
 															</div>
 		<div class="elementor-element elementor-element-7786bfb e-flex e-con-boxed e-con e-child" data-id="7786bfb" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
@@ -1102,7 +1102,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					} );
 				} )();
 			</script>
-			<div class="navbar-mobile-button"><a class="item-menubar active" href="index.html" title="Eğitim Merkezi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
+			<div class="navbar-mobile-button"><a class="item-menubar active" href="index.html" title="Kuantum Sayısal Akademi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='elementor-post-31406-css' href='wp-content/uploads/elementor/css/post-31406.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='elementor-post-34042-css' href='wp-content/uploads/elementor/css/post-34042.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='elementor-post-30994-css' href='wp-content/uploads/elementor/css/post-30994.css%3Fver=1793478198.css' media='all' />

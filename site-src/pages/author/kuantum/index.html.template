@@ -209,7 +209,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 {{include:header}}<!-- #masthead -->
 <div class="content-area">			<div class="top_heading">
 				<div class="banner-wrapper container">
-					<ul class="breadcrumbs" id="breadcrumbs"><li><a href="../../index.html">Home</a></li><li>Author: Eğitim Merkezi</li></ul><h1 class="page-title">Eğitim Merkezi</h1><p class="page-excerpt">Temel Yeterlilik Testi (TYT), üniversite giriş sınavının ilk aşaması olarak öğrencilerin temel kavram ve becerileri ölçen önemli bir sınavdır. Başarılı olmak için stratejik bir hazırlık süreci ve...</p><div class="physc-tabs-flex"><ul class="nav nav-tabs page-categories"></ul></div>				</div>
+					<ul class="breadcrumbs" id="breadcrumbs"><li><a href="../../index.html">Home</a></li><li>Author: Kuantum Sayısal Akademi</li></ul><h1 class="page-title">Kuantum Sayısal Akademi</h1><p class="page-excerpt">Temel Yeterlilik Testi (TYT), üniversite giriş sınavının ilk aşaması olarak öğrencilerin temel kavram ve becerileri ölçen önemli bir sınavdır. Başarılı olmak için stratejik bir hazırlık süreci ve...</p><div class="physc-tabs-flex"><ul class="nav nav-tabs page-categories"></ul></div>				</div>
 			</div>
 							<style>
 					.top_heading {
@@ -258,9 +258,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		<div class='post-formats-wrapper'><a class="post-image" href="../../deneme-kulubu/index.html"><img width="700" height="450" src="../../wp-content/uploads/2025/10/deneme_kulubu-700x450.webp" class="attachment-edusmart_thumbnail size-edusmart_thumbnail wp-post-image" alt="" decoding="async" /></a></div>		<div class="entry-content">
 
 			<header class="entry-header">
-				<span class="meta-category"><a href="../../blog/kurumsal-haberler/index.html">Kurumsal Haberler</a></span>				<h2 class="entry-title"><a href="../../deneme-kulubu/index.html" rel="bookmark">Eğitim Merkezi Deneme Kulübü</a></h2>							</header>
+				<span class="meta-category"><a href="../../blog/kurumsal-haberler/index.html">Kurumsal Haberler</a></span>				<h2 class="entry-title"><a href="../../deneme-kulubu/index.html" rel="bookmark">Kuantum Sayısal Akademi Deneme Kulübü</a></h2>							</header>
 			<div class="entry-summary">
-				<p>“Başarıya Giden Yolun En Güvenilir Sınav Merkezi” Üniversiteye hazırlık sürecinde doğru kaynaklarla, güvenilir sınavlarla ve gerçek sınav atmosferiyle çalışmak büyük fark yaratır. Eğitim Merkezi olarak,&#8230;</p>
+				<p>“Başarıya Giden Yolun En Güvenilir Sınav Merkezi” Üniversiteye hazırlık sürecinde doğru kaynaklarla, güvenilir sınavlarla ve gerçek sınav atmosferiyle çalışmak büyük fark yaratır. Kuantum Sayısal Akademi olarak,&#8230;</p>
 			</div>
 			<div class="readmore">
 				<a href="../../deneme-kulubu/index.html">
@@ -324,13 +324,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		    }
 }
 </style>
-<a href="#" id="okapi-wasb-button" target="_blank">
+<a href="{{contact_whatsapp}}" aria-label="WhatsApp üzerinden iletişime geçin" rel="noopener noreferrer" id="okapi-wasb-button" target="_blank">
 	<img id="okapi-wasb-icon" src="../../wp-content/plugins/wa-sticky-button/assets/default.png">
 </a>		<div data-elementor-type="popup" data-elementor-id="35939" class="elementor elementor-35939 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomOut&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-44dd25df e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="44dd25df" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
 				<div class="elementor-element elementor-element-515fc243 elementor-widget elementor-widget-image" data-id="515fc243" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="../../kayit-ve-basvuru/index.html">
-							<img width="1455" height="1600" src="../../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Eğitim Merkezi öğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="../../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
+							<img width="1455" height="1600" src="../../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alın" srcset="../../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
 															</div>
 		<div class="elementor-element elementor-element-7786bfb e-flex e-con-boxed e-con e-child" data-id="7786bfb" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
@@ -373,7 +373,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					} );
 				} )();
 			</script>
-			<div class="navbar-mobile-button"><a class="item-menubar" href="../../index.html" title="Eğitim Merkezi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="../../kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="../../kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='../../wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
+			<div class="navbar-mobile-button"><a class="item-menubar" href="../../index.html" title="Kuantum Sayısal Akademi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="../../kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="../../kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='../../wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='swiper-css' href='../../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css%3Fver=8.4.5.css' media='all' />
 <link rel='stylesheet' id='e-swiper-css' href='../../wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css%3Fver=4.3.5.css' media='all' />
 <link rel='stylesheet' id='learnpress-css' href='../../wp-content/plugins/learnpress/assets/css/learnpress.min.css%3Fver=4.4.13.css' media='all' />

@@ -248,37 +248,37 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-91621c6 elementor-widget elementor-widget-counter" data-id="91621c6" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Başarıyla Mezun Olan Öğrenci</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="9" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-57f3faa elementor-widget elementor-widget-counter" data-id="57f3faa" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Bizimle Öğrenenler</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="60" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="10" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-947386a elementor-widget elementor-widget-counter" data-id="947386a" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Memnuniyet Skoru</div>			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix">%</span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="99" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix"></span>
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="11" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-c5393a0 elementor-widget elementor-widget-counter" data-id="c5393a0" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 							<div class="elementor-counter">
-			<div class="elementor-counter-title">Büyüyen Eğitim Ailemiz</div>			<div class="elementor-counter-number-wrapper">
+			<div class="elementor-counter-title">Sınıf Eğitim Programı</div>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="300" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix">B+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="12" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">. Sınıf</span>
 			</div>
 		</div>
 						</div>
@@ -314,7 +314,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-df5cd66 elementor-widget elementor-widget-thim-ekits-heading" data-id="df5cd66" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Sıkça Sorulan Sorular</h2>			<div class='desc'>
-				<p class="p1"><b>Eğitim Merkezi Şubesi hakkında en çok merak edilen soruları senin için cevapladık.</b><b></b></p><p class="p2">Eğitim programlarımızdan kadromuza, deneme sisteminden rehberlik hizmetlerimize kadar aklına takılan pek çok sorunun yanıtını aşağıda bulabilirsin.</p>			</div>
+				<p class="p1"><b>Kuantum Sayısal Akademi hakkında en çok merak edilen soruları senin için cevapladık.</b><b></b></p><p class="p2">Eğitim programlarımızdan kadromuza, deneme sisteminden rehberlik hizmetlerimize kadar aklına takılan pek çok sorunun yanıtını aşağıda bulabilirsin.</p>			</div>
 		</div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-ff79cb6 elementor-widget elementor-widget-thim-ekits-accordion" data-id="ff79cb6" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-accordion.default">
@@ -326,7 +326,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="accordion-section">
 						<div class="accordion-title" aria-selected="true" role="tab" tabindex="0" aria-controls="item-acc-ff79cb6-1">
 							<span class="accordion-title-text">
-																Eğitim Merkezi Şubesi hangi sınıf düzeylerine eğitim veriyor?							</span>
+																Kuantum Sayısal Akademi hangi sınıf düzeylerine eğitim veriyor?							</span>
 															<span class="accordion-icon">
 									<span
 										class="accordion-icon-closed"><i class="tk tk-minus"></i></span>
@@ -339,7 +339,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							 role="tabpanel"
 							 aria-labelledby="item-acc-ff79cb6-1"
 							 tabindex="0" >
-							<p>Eğitim Merkezi Şubemiz, 10. 11. ve 12. Sınıf Eğitim Programları, YKS Hazırlık Programları ile geniş bir yelpazede eğitim hizmeti sunar. Ayrıca mezun gruplarımız da mevcuttur.</p>						</div>
+							<p>Kuantum Sayısal Akademi, 9, 10, 11 ve 12. sınıf eğitim programları, YKS Hazırlık Programları ile geniş bir yelpazede eğitim hizmeti sunar. Ayrıca mezun gruplarımız da mevcuttur.</p>						</div>
 					</div>
 
 
@@ -419,7 +419,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							 role="tabpanel"
 							 aria-labelledby="item-acc-ff79cb6-5"
 							 tabindex="-1" hidden>
-							<p class="p1">Eğitmen kadromuz, pedagojik formasyonu olan, sınav müfredatına ve soru tarzlarına hâkim, deneyimli ve iletişimi güçlü öğretmenlerden titizlikle seçilmektedir. Eğitim Merkezi’in kalitesini yansıtan nitelikli bir kadro ile çalışıyoruz.</p>						</div>
+							<p class="p1">Eğitmen kadromuz, pedagojik formasyonu olan, sınav müfredatına ve soru tarzlarına hâkim, deneyimli ve iletişimi güçlü öğretmenlerden titizlikle seçilmektedir. Kuantum Sayısal Akademi’nin kalitesini yansıtan nitelikli bir kadro ile çalışıyoruz.</p>						</div>
 					</div>
 
 							</div>
@@ -479,13 +479,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		    }
 }
 </style>
-<a href="#" id="okapi-wasb-button" target="_blank">
+<a href="{{contact_whatsapp}}" aria-label="WhatsApp üzerinden iletişime geçin" rel="noopener noreferrer" id="okapi-wasb-button" target="_blank">
 	<img id="okapi-wasb-icon" src="../wp-content/plugins/wa-sticky-button/assets/default.png">
 </a>		<div data-elementor-type="popup" data-elementor-id="35939" class="elementor elementor-35939 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomOut&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-44dd25df e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="44dd25df" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
 				<div class="elementor-element elementor-element-515fc243 elementor-widget elementor-widget-image" data-id="515fc243" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="../kayit-ve-basvuru/index.html">
-							<img width="1455" height="1600" src="../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Eğitim Merkezi öğrencisi Türkiye 12.si - YKS başarı hikayesi" srcset="../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
+							<img width="1455" height="1600" src="../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alın" srcset="../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
 															</div>
 		<div class="elementor-element elementor-element-7786bfb e-flex e-con-boxed e-con e-child" data-id="7786bfb" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
@@ -528,7 +528,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					} );
 				} )();
 			</script>
-			<div class="navbar-mobile-button"><a class="item-menubar" href="../index.html" title="Eğitim Merkezi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="../kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="../kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='../wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
+			<div class="navbar-mobile-button"><a class="item-menubar" href="../index.html" title="Kuantum Sayısal Akademi"><i class="tk tk-home"></i><span>Anasayfa</span></a><a class="item-menubar" href="../kurslar/index.html" title="Kurs"><i class="lp-icon-book-open"></i><span>Kurs</span></a><a class="item-menubar search-toggle" href="../kurs-arama.html"><i class="tk tk-search"></i><span>Ara</span><a class="item-menubar physc-link-login" href="#" title="Giriş"><i class="tk tk-user"></i><span>Giriş</span></a></div><link rel='stylesheet' id='elementor-post-34017-css' href='../wp-content/uploads/elementor/css/post-34017.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='learnpress-css' href='../wp-content/plugins/learnpress/assets/css/learnpress.min.css%3Fver=4.4.13.css' media='all' />
 <link rel='stylesheet' id='phys-list-course-css' href='../wp-content/themes/edusmart/assets/css/list-course.css%3Fver=1.0.9.css' media='all' />
 <link rel='stylesheet' id='elementor-post-31406-css' href='../wp-content/uploads/elementor/css/post-31406.css%3Fver=1793478198.css' media='all' />

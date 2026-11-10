@@ -20,7 +20,7 @@ def render(path, metadata):
             return (SOURCE / 'partials' / (name + '.html.template')).read_text()
         return match[0]
     page = TOKEN.sub(include, page)
-    values = metadata.get('values', {})
+    values = {**json.loads((SOURCE / 'site.json').read_text()), **metadata.get('values', {})}
     page = TOKEN.sub(lambda m: values.get(m[1], m[0]), page)
     page = page.replace('{{root}}', '../' * (len(Path(path).parts) - 1))
     unresolved = TOKEN.findall(page)

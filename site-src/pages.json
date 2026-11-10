@@ -826,5 +826,28 @@
       "footer_131_href": " href=\"{{root}}yks-hazirlik-kursu.html\"",
       "footer_411_loading": " loading=\"lazy\""
     }
+  },
+  "9-sinif-egitim-kursu.html": {
+    "values": {
+      "header_45_class": " class=\"menu-item-button menu-item menu-item-type-custom menu-item-object-custom menu-item-34280 nav-item thim-ekits-menu__has-dropdown thim-ekits-menu__mega-menu\"",
+      "header_47_class": " class=\"thim-ekits-menu__nav-link\"",
+      "header_47_aria_current": "",
+      "header_177_fetchpriority": " fetchpriority=\"high\"",
+      "header_431_class": " class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34278 nav-item\"",
+      "header_433_class": " class=\"thim-ekits-menu__nav-link\"",
+      "header_433_aria_current": "",
+      "header_439_class": " class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-34281 nav-item thim-ekits-menu__has-dropdown thim-ekits-menu__mega-menu\"",
+      "header_441_class": " class=\"thim-ekits-menu__nav-link\"",
+      "header_441_aria_current": "",
+      "header_593_loading": " loading=\"lazy\"",
+      "header_611_class": " class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-34662 nav-item\"",
+      "header_613_class": " class=\"thim-ekits-menu__nav-link\"",
+      "header_613_aria_current": "",
+      "header_619_class": " class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-34282 nav-item\"",
+      "header_621_class": " class=\"thim-ekits-menu__nav-link\"",
+      "header_621_aria_current": "",
+      "footer_131_href": " href=\"{{root}}10-sinif-egitim-kursu.html\"",
+      "footer_411_loading": " loading=\"lazy\""
+    }
   }
 }
