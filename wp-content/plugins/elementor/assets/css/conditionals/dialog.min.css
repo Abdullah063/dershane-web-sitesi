@@ -1,0 +1,13 @@
+/* Elementor dialog temel stilleri (statik kopyada eksik olan dosya). Açılır pencereyi ekrana sabitler. */
+.dialog-widget-content{background-color:#fff;position:absolute;border-radius:3px;box-shadow:2px 8px 23px 3px rgba(0,0,0,.2);overflow:hidden}
+.dialog-message{line-height:1.5;box-sizing:border-box}
+.dialog-close-button{cursor:pointer;position:absolute;margin-top:15px;right:15px;color:#69727d;font-size:15px;line-height:1;transition:color .3s}
+.dialog-close-button:hover{color:#1f2124}
+.dialog-prevent-scroll{overflow:hidden;max-height:100vh}
+.dialog-type-lightbox{position:fixed;height:100%;width:100%;bottom:0;left:0;background-color:rgba(0,0,0,.8);z-index:9999;-webkit-user-select:none;-moz-user-select:none;user-select:none}
+.elementor-editor-active .elementor-popup-modal{background-color:initial}
+.dialog-type-alert .dialog-widget-content,.dialog-type-confirm .dialog-widget-content{margin:auto;width:400px;padding:20px}
+.dialog-type-alert .dialog-header,.dialog-type-confirm .dialog-header{font-size:15px;font-weight:500}
+.dialog-type-alert .dialog-header:after,.dialog-type-confirm .dialog-header:after{content:"";display:block;border-block-end:1px solid #e6e8ea;padding-block-end:10px;margin-block-end:10px;margin-inline-start:-20px;margin-inline-end:-20px}
+.dialog-type-alert .dialog-message,.dialog-type-confirm .dialog-message{min-height:50px}
+.dialog-type-alert .dialog-buttons-wrapper,.dialog-type-confirm .dialog-buttons-wrapper{padding-block-start:10px;display:flex;justify-content:flex-end;gap:15px}

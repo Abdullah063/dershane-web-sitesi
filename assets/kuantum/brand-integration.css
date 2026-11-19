@@ -24,3 +24,46 @@ img[src*="akademi-logo"] { mix-blend-mode: normal; }
   -webkit-backdrop-filter: none !important;
   background-color: rgba(255,255,255,.92);
 }
+
+/* Açılış reklamı (popup): her ekranda sabit ve ortalı, mobilde taşmasız */
+#elementor-popup-modal-35939 {
+  position: fixed !important;
+  inset: 0;
+  z-index: 100000;
+}
+#elementor-popup-modal-35939 .dialog-widget-content {
+  position: relative;
+  margin: auto;
+}
+#elementor-popup-modal-35939 .elementor-button {
+  background-color: var(--e-global-color-primary, #0f2a52);
+}
+@media (max-width: 767px) {
+  #elementor-popup-modal-35939 .dialog-message {
+    width: min(320px, calc(100vw - 32px)) !important;
+    max-height: calc(100dvh - 48px);
+  }
+  #elementor-popup-modal-35939 .dialog-close-button {
+    top: 10px !important;
+    right: 10px !important;
+    left: auto !important;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: rgba(0,0,0,.55);
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+  }
+}
+
+/* "Neden Kuantum" kartları: amblem boyutu ve alıntı simgesi */
+[data-id="ba9b995"] .thim-ekits-testimonial__image img {
+  width: 64px !important;
+  height: 64px !important;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 50%;
+  padding: 8px;
+}
+[data-id="ba9b995"] .thim-ekits-testimonial__quote-icon { display: none; }

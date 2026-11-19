@@ -304,7 +304,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Kurslarımızı Keşfedin, <b><br><i>Potansiyelinizi Gerçeğe Dönüştürün</i></b></h2></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-269c4d4 elementor-widget elementor-widget-text-editor" data-id="269c4d4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-									<p><strong>Kuantum Sayısal Akademi</strong>’in özel mentörlük sistemi ve uzman öğretmen kadrosuyla hazırlanan kurslarımız, akademik başarınızı güçlendirmek ve sizi hedeflediğiniz üniversiteye ulaştırmak için tasarlandı.</p>								</div>
+									<p><strong>Kuantum Sayısal Akademi</strong>’nin özel mentörlük sistemi ve uzman öğretmen kadrosuyla hazırlanan kurslarımız, akademik başarınızı güçlendirmek ve sizi hedeflediğiniz üniversiteye ulaştırmak için tasarlandı.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-7a1600c physc-tabs-flex animated-slow elementor-invisible elementor-widget elementor-widget-thim-ekits-list-course" data-id="7a1600c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;ekit--slide-up&quot;,&quot;column_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:2,&quot;slidesPerView_mobile&quot;:1,&quot;slidesPerGroup_mobile&quot;:1,&quot;column_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;column_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;spaceBetween&quot;:30,&quot;spaceBetween_mobile&quot;:&quot;15&quot;,&quot;slider_speed&quot;:1000,&quot;slider_autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:1000,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;centered_slides&quot;:&quot;no&quot;,&quot;slider_show_pagination&quot;:&quot;none&quot;}" data-widget_type="thim-ekits-list-course.default">
 				<div class="elementor-widget-container">
@@ -593,8 +593,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		<div class="elementor-element elementor-element-ff5823d e-con-full e-flex e-con e-child" data-id="ff5823d" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-d2681ba elementor-widget elementor-widget-thim-ekits-heading" data-id="d2681ba" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
-					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Öğrenci ve Veli Görüşleri</h2>			<div class='desc'>
-				<p>Bu alandaki örnek yorumlar, kurumun gerçek öğrenci ve veli görüşleriyle güncellenecektir.</p>			</div>
+					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Neden Kuantum Sayısal Akademi?</h2>			<div class='desc'>
+				<p>Eğitim anlayışımızı üç temel ilke üzerine kuruyoruz. Öğrenci ve velilerimizin görüşlerini <a href="{{contact_map}}" target="_blank" rel="noopener">Google sayfamızda</a> okuyabilir, siz de deneyiminizi paylaşabilirsiniz.</p>			</div>
 		</div>				</div>
 				</div>
 				</div>
@@ -602,13 +602,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-06b1ca9 elementor-widget elementor-widget-thim-ekits-heading" data-id="06b1ca9" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h4 class="title">Güven</h4>			<div class='desc'>
-				<p>Öğrenci ve veli iletişimini önemseyen eğitim yaklaşımı.</p>			</div>
+				<p>Öğrenci, veli ve öğretmen arasında açık ve düzenli iletişim.</p>			</div>
 		</div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-3940992 elementor-widget elementor-widget-thim-ekits-heading" data-id="3940992" data-element_type="widget" data-e-type="widget" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h4 class="title">Takip</h4>			<div class='desc'>
-				<p>Öğrencilerimizin Takip kurslarımızı tamamlıyor. Yorumlar, bizden aldığınız eğitimin gücünü gösteriyor.</p>			</div>
+				<p>Ödev, etüt ve deneme sonuçlarıyla her öğrencinin gelişimi adım adım izlenir.</p>			</div>
 		</div>				</div>
 				</div>
 				</div>
@@ -627,13 +627,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									<div class="wrapper-client-info">
 								<div class="thim-ekits-testimonial__avatar ">
 				<div class="thim-ekits-testimonial__image">
-					<img decoding="async" src="wp-content/uploads/2025/09/avatar-01-80x80.webp" title="avatar-01" alt="avatar-01" loading="lazy" />				</div>
+					<img decoding="async" src="assets/kuantum/kuantum-amblem-seffaf.png" width="80" height="80" title="" alt="Kuantum Sayısal Akademi" loading="lazy" />				</div>
 			</div>
 							<div class="thim-ekits-testimonial__client-info">
-						<a href="#" target="_blank" class="thim-ekits-testimonial__name">Örnek Yorum</a>						<div class="thim-ekits-testimonial__position" >Öğrenci</div>					</div>
+						<span class="thim-ekits-testimonial__name">Anlaşılır Anlatım</span>						<div class="thim-ekits-testimonial__position" >Matematik ve fen dersleri</div>					</div>
 										</div>
 
-							<div class="thim-ekits-testimonial__client-content"><p>Derslerin anlaşılır anlatılması ve düzenli çalışma takibi öğrencinin öğrenme sürecini destekler.</p></div>
+							<div class="thim-ekits-testimonial__client-content"><p>Konular ezber yerine mantığıyla anlatılır; her ders soru çözümü ve tekrarla pekiştirilir.</p></div>
 						</div>
 					<div class="thim-ekits-testimonial__quote-icon">
 			<i aria-hidden="true" class="tk tk-quote-right"></i>		</div>
@@ -644,13 +644,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									<div class="wrapper-client-info">
 								<div class="thim-ekits-testimonial__avatar ">
 				<div class="thim-ekits-testimonial__image">
-					<img decoding="async" src="wp-content/uploads/2025/09/avatar-03-80x80.webp" title="avatar-03" alt="avatar-03" loading="lazy" />				</div>
+					<img decoding="async" src="assets/kuantum/kuantum-amblem-seffaf.png" width="80" height="80" title="" alt="Kuantum Sayısal Akademi" loading="lazy" />				</div>
 			</div>
 							<div class="thim-ekits-testimonial__client-info">
-						<a href="#" target="_blank" class="thim-ekits-testimonial__name">Örnek Yorum</a>						<div class="thim-ekits-testimonial__position" >Öğrenci</div>					</div>
+						<span class="thim-ekits-testimonial__name">Düzenli Takip</span>						<div class="thim-ekits-testimonial__position" >Ödev, etüt ve deneme</div>					</div>
 										</div>
 
-							<div class="thim-ekits-testimonial__client-content"><p>Öğretmenlerle iletişim, ödevlerin takibi ve deneme değerlendirmeleri eğitim sürecinin önemli parçalarıdır.</p></div>
+							<div class="thim-ekits-testimonial__client-content"><p>Ödevler, birebir etütler ve deneme değerlendirmeleriyle eksikler zamanında tespit edilir.</p></div>
 						</div>
 					<div class="thim-ekits-testimonial__quote-icon">
 			<i aria-hidden="true" class="tk tk-quote-right"></i>		</div>
@@ -661,13 +661,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									<div class="wrapper-client-info">
 								<div class="thim-ekits-testimonial__avatar ">
 				<div class="thim-ekits-testimonial__image">
-					<img decoding="async" src="wp-content/uploads/2025/09/avatar-02-80x80.webp" title="avatar-02" alt="avatar-02" loading="lazy" />				</div>
+					<img decoding="async" src="assets/kuantum/kuantum-amblem-seffaf.png" width="80" height="80" title="" alt="Kuantum Sayısal Akademi" loading="lazy" />				</div>
 			</div>
 							<div class="thim-ekits-testimonial__client-info">
-						<a href="#" target="_blank" class="thim-ekits-testimonial__name">Örnek Yorum</a>						<div class="thim-ekits-testimonial__position" >Öğrenci</div>					</div>
+						<span class="thim-ekits-testimonial__name">Kişiye Özel Plan</span>						<div class="thim-ekits-testimonial__position" >Hedefe göre çalışma</div>					</div>
 										</div>
 
-							<div class="thim-ekits-testimonial__client-content"><p>Öğrencinin ihtiyaçlarına göre planlanan çalışmalar, hedeflerine daha düzenli hazırlanmasına yardımcı olur.</p></div>
+							<div class="thim-ekits-testimonial__client-content"><p>Her öğrencinin seviyesine ve hedefine göre çalışma programı hazırlanır, veliyle düzenli paylaşılır.</p></div>
 						</div>
 					<div class="thim-ekits-testimonial__quote-icon">
 			<i aria-hidden="true" class="tk tk-quote-right"></i>		</div>
@@ -774,7 +774,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							 role="tabpanel"
 							 aria-labelledby="item-acc-700ed81-2"
 							 tabindex="-1" hidden>
-							<p class="p1">Şubemizde Türkçe, Matematik, Geometri, Fizik, Kimya, Biyoloji, Tarih ve Coğrafya gibi tüm ana derslerde <span class="s1"><b>alanında uzman, deneyimli ve sınav formatlarına hakim</b></span> öğretmen kadromuz bulunmaktadır.</p>						</div>
+							<p class="p1">Sayısal ağırlıklı kurumumuzda Matematik, Geometri, Fizik, Kimya, Biyoloji, Türk Dili ve Edebiyatı ve İngilizce derslerinde <span class="s1"><b>alanında uzman, deneyimli ve sınav formatlarına hakim</b></span> öğretmen kadromuz bulunmaktadır.</p>						</div>
 					</div>
 
 
