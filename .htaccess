@@ -75,6 +75,8 @@ RewriteCond %{THE_REQUEST} "\s/+[^?\ ]*yks\-hazirlik\-kursu\.html(?:[?\ ]|$)" [N
 RewriteRule ^yks\-hazirlik\-kursu\.html$ yks-hazirlik-kursu/ [R=301,L,NE]
 RewriteCond %{THE_REQUEST} "\s/+[^?\ ]*9\-sinif\-egitim\-kursu\.html(?:[?\ ]|$)" [NC]
 RewriteRule ^9\-sinif\-egitim\-kursu\.html$ 9-sinif-egitim-kursu/ [R=301,L,NE]
+RewriteCond %{THE_REQUEST} "\s/+[^?\ ]*gizlilik\-politikasi/index\.html(?:[?\ ]|$)" [NC]
+RewriteRule ^gizlilik\-politikasi/index\.html$ gizlilik-politikasi/ [R=301,L,NE]
 </IfModule>
 
 # Static assets: one month; HTML must revalidate to pick up new builds.

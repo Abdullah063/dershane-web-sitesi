@@ -185,6 +185,12 @@
       "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
       "type": "WebPage",
       "index": false
+    },
+    "gizlilik-politikasi/index.html": {
+      "title": "Gizlilik Politikası ve Hesap Silme - Kuantum Akademi Mobil",
+      "description": "Kuantum Akademi mobil uygulamasında kişisel verilerin işlenmesi, paylaşılması, saklanması ve hesap silme talebi.",
+      "type": "WebPage",
+      "index": false
     }
   },
   "aliases": {
