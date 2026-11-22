@@ -8,6 +8,7 @@ import sys
 from urllib.parse import unquote, urlsplit
 
 from build_site import ROOT, SOURCE, render
+from clean_urls import output_path
 
 errors = []
 
@@ -34,7 +35,7 @@ class References(HTMLParser):
 def main():
     pages = json.loads((SOURCE / 'pages.json').read_text())
     for path, metadata in pages.items():
-        page = ROOT / path
+        page = ROOT / output_path(path)
         if not page.exists():
             errors.append(f'Missing output: {path}')
             continue
@@ -64,7 +65,7 @@ def main():
     # Dynamic chunks do not appear in ordinary <script> references.
     widgets = set()
     for path in pages:
-        widgets.update(re.findall(r'data-widget_type="([^"]+)"', (ROOT / path).read_text()))
+        widgets.update(re.findall(r'data-widget_type="([^"]+)"', (ROOT / output_path(path)).read_text()))
     core_chunks = {
         'text-editor.default': 'text-editor', 'counter.default': 'counter',
         'image-carousel.default': 'image-carousel', 'accordion.default': 'accordion',

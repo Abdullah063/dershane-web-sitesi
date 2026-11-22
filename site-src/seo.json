@@ -1,0 +1,199 @@
+{
+  "domain": "https://kuantumsayisalakademi.com",
+  "pages": {
+    "index.html": {
+      "title": "Eskişehir YKS ve Lise Kursu | Kuantum Sayısal Akademi",
+      "description": "Eskişehir Odunpazarı’nda 9, 10, 11, 12. sınıf ve YKS hazırlık programları. Kuantum Sayısal Akademi kursları ve iletişim bilgilerini inceleyin.",
+      "type": "WebPage",
+      "index": true
+    },
+    "9-sinif-egitim-kursu.html": {
+      "title": "Eskişehir 9. Sınıf Kursu | Kuantum Sayısal Akademi",
+      "description": "Liseye uyum, okul derslerine destek ve sayısal derslerde temel oluşturmak için Eskişehir Odunpazarı’ndaki 9. sınıf eğitim programımızı inceleyin.",
+      "type": "WebPage",
+      "index": true,
+      "course_name": "9. Sınıf Eğitim Kursu"
+    },
+    "10-sinif-egitim-kursu.html": {
+      "title": "Eskişehir 10. Sınıf Kursu | Kuantum Sayısal Akademi",
+      "description": "Okul derslerini pekiştirmek, yazılılara hazırlanmak ve düzenli çalışmak için Eskişehir Odunpazarı’ndaki 10. sınıf eğitim programımızı inceleyin.",
+      "type": "WebPage",
+      "index": true,
+      "course_name": "10. Sınıf Eğitim Kursu"
+    },
+    "11-sinif-egitim-kursu.html": {
+      "title": "Eskişehir 11. Sınıf Kursu | Kuantum Sayısal Akademi",
+      "description": "Okul dersleriyle birlikte TYT temellerini güçlendirmek ve sınava hazırlanmak için Eskişehir Odunpazarı’ndaki 11. sınıf eğitim programımızı inceleyin.",
+      "type": "WebPage",
+      "index": true,
+      "course_name": "11. Sınıf Eğitim Kursu"
+    },
+    "12-sinif-egitim-kursu.html": {
+      "title": "Eskişehir 12. Sınıf Kursu | Kuantum Sayısal Akademi",
+      "description": "TYT ve AYT hazırlığını okul programıyla birlikte planlamak için Eskişehir Odunpazarı’ndaki 12. sınıf eğitim programımızı inceleyin.",
+      "type": "WebPage",
+      "index": true,
+      "course_name": "12. Sınıf Eğitim Kursu"
+    },
+    "yks-hazirlik-kursu.html": {
+      "title": "Eskişehir YKS Hazırlık Kursu | Kuantum Sayısal Akademi",
+      "description": "Eskişehir Odunpazarı’nda mezunlara yönelik YKS hazırlık programı. TYT–AYT dersleri, konu tekrarı ve soru çözümü hakkında bilgi alın.",
+      "type": "WebPage",
+      "index": true,
+      "course_name": "YKS Hazırlık Kursu"
+    },
+    "kurslar/index.html": {
+      "title": "Eskişehir Kurs Programları | Kuantum Sayısal Akademi",
+      "description": "9, 10, 11 ve 12. sınıf kursları ile YKS hazırlık programını karşılaştırın. Eskişehir Odunpazarı’ndaki Kuantum Sayısal Akademi programlarını keşfedin.",
+      "type": "CollectionPage",
+      "index": true
+    },
+    "hakkimizda/index.html": {
+      "title": "Eskişehir’de Kuantum Sayısal Akademi | Hakkımızda",
+      "description": "Kuantum Sayısal Akademi’yi tanıyın. Eskişehir Odunpazarı’nda lise derslerine destek, sayısal dersler ve YKS hazırlığına odaklanan eğitim yaklaşımımız.",
+      "type": "AboutPage",
+      "index": true
+    },
+    "iletisim/index.html": {
+      "title": "İletişim ve Yol Tarifi | Kuantum Sayısal Akademi",
+      "description": "Eskişehir Odunpazarı, Kurtuluş Mahallesi, Asarcık Sokak No:106/14 Doğruyol Plaza. Telefon: 0554 218 26 26. Adres, WhatsApp ve yol tarifine ulaşın.",
+      "type": "ContactPage",
+      "index": true
+    },
+    "kayit-ve-basvuru/index.html": {
+      "title": "Kurs Başvuru Bilgileri | Kuantum Sayısal Akademi",
+      "description": "Eskişehir’de lise ve YKS kursları hakkında bilgi alın. Kuantum Sayısal Akademi programları ve başvuru ayrıntıları için telefon veya WhatsApp ile ulaşın.",
+      "type": "WebPage",
+      "index": true
+    },
+    "deneme-kulubu/index.html": {
+      "title": "Eskişehir Deneme Kulübü | Kuantum Sayısal Akademi",
+      "description": "TYT ve AYT denemeleriyle sınav pratiği yapın, zaman kullanımınızı ve konu eksiklerinizi değerlendirin. Eskişehir deneme kulübü bilgileri için bize ulaşın.",
+      "type": "WebPage",
+      "index": true
+    },
+    "mentorluk/index.html": {
+      "title": "Öğrenci Takibi ve Mentörlük | Kuantum Sayısal Akademi",
+      "description": "Çalışma planı, hedef belirleme, ödev ve gelişim takibiyle eğitim sürecini destekleyen mentörlük yaklaşımımızı Eskişehir Kuantum Sayısal Akademi’de tanıyın.",
+      "type": "WebPage",
+      "index": true
+    },
+    "egitim-felsefemiz/index.html": {
+      "title": "Eğitim Yaklaşımımız | Kuantum Sayısal Akademi",
+      "description": "Konu öğrenimi, soru çözümü ve gelişim takibini birleştiren eğitim yaklaşımımızı keşfedin. Eskişehir’de lise ve YKS hazırlık sürecine birlikte odaklanıyoruz.",
+      "type": "WebPage",
+      "index": true
+    },
+    "fotograf-video/index.html": {
+      "title": "Fotoğraf ve Video Galerisi | Kuantum Sayısal Akademi",
+      "description": "Eskişehir Kuantum Sayısal Akademi’nin fotoğraf ve video galerisini inceleyin; eğitim programlarımızı ve akademimizdeki öğrenme ortamını tanıyın.",
+      "type": "CollectionPage",
+      "index": true
+    },
+    "blog/index.html": {
+      "title": "YKS ve Öğrenci Rehberliği Yazıları | Kuantum Akademi",
+      "description": "TYT çalışma önerileri, sınav kaygısı ve ailelere yönelik rehberlik yazıları. Kuantum Sayısal Akademi ile sınava hazırlık sürecine dair içerikleri keşfedin.",
+      "type": "CollectionPage",
+      "index": true
+    },
+    "sinav-kaygisiyla-bas-etme-yollari-yks-ogrencileri-icin/index.html": {
+      "title": "Sınav Kaygısıyla Baş Etme Yolları | Kuantum Akademi",
+      "description": "YKS hazırlığında sınav kaygısını anlamak, çalışma düzenini korumak ve sınav sürecini yönetmek için öneriler. Kuantum Sayısal Akademi rehberlik yazısı.",
+      "type": "WebPage",
+      "index": true
+    },
+    "tytde-basariyi-arttiran-5-altin-kural/index.html": {
+      "title": "TYT Hazırlığında 5 Çalışma Önerisi | Kuantum Akademi",
+      "description": "TYT hazırlığında konu öğrenimi, soru çözümü, zaman yönetimi ve deneme değerlendirmesi için çalışma önerileri. Sınava hazırlık planınızı güçlendirin.",
+      "type": "WebPage",
+      "index": true
+    },
+    "ailelerin-sinav-surecinde-cocuklarina-yaklasimi-nasil-olmali/index.html": {
+      "title": "Sınav Sürecinde Aile Desteği | Kuantum Akademi",
+      "description": "Sınava hazırlanan çocuğunuzu dinlemek, destekleyici iletişim kurmak ve beklentileri yönetmek için ailelere öneriler. Kuantum Akademi rehberlik yazısı.",
+      "type": "WebPage",
+      "index": true
+    },
+    "author/kuantum/index.html": {
+      "title": "Kuantum Sayısal Akademi, Kuantum Sayısal Akademi sitesinin yazarı",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "blog/basari-stratejileri/index.html": {
+      "title": "Başarı Stratejileri arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "blog/kurumsal-haberler/index.html": {
+      "title": "Kurumsal Haberler arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "blog/ogrenci-rehberligi/index.html": {
+      "title": "Öğrenci Rehberliği arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "bursluluk-sinavi-2026/aydinlatma-metni/index.html": {
+      "title": "Aydınlatma Metni - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "course-category/10-sinif-egitim-programlari/index.html": {
+      "title": "10. Sınıf Eğitim Programları arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "course-category/11-sinif-egitim-programlari/index.html": {
+      "title": "11. Sınıf Eğitim Programları arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "course-category/12-sinif-egitim-programlari/index.html": {
+      "title": "12. Sınıf Eğitim Programları arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "course-category/tum-kurslar/index.html": {
+      "title": "Tüm Kurslar arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "course-category/yks-hazirlik-programi/index.html": {
+      "title": "YKS Hazırlık Programı arşivleri - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "kurs-arama.html": {
+      "title": "için arama yaptınız - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    },
+    "ogretmen/kuantum/index.html": {
+      "title": "Öğretmenlerimiz - Kuantum Sayısal Akademi",
+      "description": "Kuantum Sayısal Akademi bilgi ve arşiv sayfası.",
+      "type": "WebPage",
+      "index": false
+    }
+  },
+  "aliases": {
+    "kurslar/10-sinif-egitim-kursu/index.html": "10-sinif-egitim-kursu.html",
+    "kurslar/11-sinif-egitim-kursu/index.html": "11-sinif-egitim-kursu.html",
+    "kurslar/11-sinif-egitim-kursu-tyt-hazirlik/index.html": "11-sinif-egitim-kursu.html",
+    "kurslar/12-sinif-egitim-kursu/index.html": "12-sinif-egitim-kursu.html",
+    "kurslar/12-sinif-yks-hazirlik-kursu/index.html": "12-sinif-egitim-kursu.html",
+    "kurslar/mezun-yks-hazirlik-kursu/index.html": "yks-hazirlik-kursu.html",
+    "kurslar/yks-hazirlik-kursu/index.html": "yks-hazirlik-kursu.html"
+  }
+}

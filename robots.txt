@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /site-src/
+Disallow: /scripts/
+Sitemap: https://kuantumsayisalakademi.com/sitemap.xml

@@ -7,7 +7,7 @@
 
 
 	<script id="lpData">
-var lpData = {"site_url":"https:\/\/kuantum.abdullahaltun.com.tr","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantum.abdullahaltun.com.tr\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
+var lpData = {"site_url":"https:\/\/kuantumsayisalakademi.com","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantumsayisalakademi.com\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
 </script>
 <script id="lpSettingCourses">
 var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpArchivePaginationType":"number","noLoadCoursesJs":0};
@@ -24,7 +24,7 @@ var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpAr
 
 
 	<title>Fotoğraf &amp; Video - Kuantum Sayısal Akademi</title>
-	<link rel="canonical" href="https://kuantum.abdullahaltun.com.tr/fotograf-video/">
+	<link rel="canonical" href="https://kuantumsayisalakademi.com/fotograf-video/">
 
 
 
@@ -192,20 +192,20 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" href="../assets/kuantum/brand-theme.css">
 
 <!-- Kuantum social preview -->
-<meta property="og:url" content="https://kuantum.abdullahaltun.com.tr/fotograf-video/">
+<meta property="og:url" content="https://kuantumsayisalakademi.com/fotograf-video/">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Kuantum Sayısal Akademi">
 <meta property="og:title" content="Fotoğraf &amp; Video - Kuantum Sayısal Akademi">
 <meta property="og:description" content="Özel Kuantum Sayısal Akademi Öğretim Kursu. Sınıf programları, YKS hazırlık, mentörlük ve öğrenci takibi.">
-<meta property="og:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta property="og:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Kuantum Sayısal Akademi logosu">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Fotoğraf &amp; Video - Kuantum Sayısal Akademi">
-<meta name="twitter:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta name="twitter:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 </head>
 <body class="wp-singular page-template page-template-elementor_header_footer page page-id-35155 wp-embed-responsive wp-theme-edusmart wp-child-theme-edusmart-child sticky-header elementor-default elementor-template-full-width elementor-kit-34301 elementor-page elementor-page-35155">
 
@@ -224,19 +224,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-86a5862 elementor-widget elementor-widget-gallery" data-id="86a5862" data-element_type="widget" data-e-type="widget" data-settings="{&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;aspect_ratio&quot;:&quot;3:2&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 							<div class="elementor-gallery__container">
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="../wp-content/uploads/2024/12/tyt-5-altin-kural.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="86a5862" data-elementor-lightbox-title="tyt-5-altin-kural" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU0MTcsInVybCI6Imh0dHBzOlwvXC9nYXppb3NtYW5wYXNhbXVyYXRlZ2l0aW0uY29tLnRyXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMlwvdHl0LTUtYWx0aW4ta3VyYWwud2VicCIsInNsaWRlc2hvdyI6Ijg2YTU4NjIifQ%3D%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantum.abdullahaltun.com.tr/wp-content/uploads/2024/12/tyt-5-altin-kural-300x169.webp" data-width="300" data-height="169" aria-label="" role="img" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantumsayisalakademi.com/wp-content/uploads/2024/12/tyt-5-altin-kural-300x169.webp" data-width="300" data-height="169" aria-label="" role="img" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 														</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="../wp-content/uploads/2025/10/akademi-ogrenci_02.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="86a5862" data-elementor-lightbox-title="akademi-ogrenci_02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU1NzksInVybCI6Imh0dHBzOlwvXC9nYXppb3NtYW5wYXNhbXVyYXRlZ2l0aW0uY29tLnRyXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8xMFwvZ29wX211cmF0LWVnaXRpbV8wMi53ZWJwIiwic2xpZGVzaG93IjoiODZhNTg2MiJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantum.abdullahaltun.com.tr/wp-content/uploads/2025/10/akademi-ogrenci_02-300x300.webp" data-width="300" data-height="300" aria-label="" role="img" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantumsayisalakademi.com/wp-content/uploads/2025/10/akademi-ogrenci_02-300x300.webp" data-width="300" data-height="300" aria-label="" role="img" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 														</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="../wp-content/uploads/2025/10/akademi-ogrenci_01.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="86a5862" data-elementor-lightbox-title="akademi-ogrenci_01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU1NzgsInVybCI6Imh0dHBzOlwvXC9nYXppb3NtYW5wYXNhbXVyYXRlZ2l0aW0uY29tLnRyXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8xMFwvZ29wX211cmF0LWVnaXRpbV8wMS53ZWJwIiwic2xpZGVzaG93IjoiODZhNTg2MiJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantum.abdullahaltun.com.tr/wp-content/uploads/2025/10/akademi-ogrenci_01-300x300.webp" data-width="300" data-height="300" aria-label="" role="img" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantumsayisalakademi.com/wp-content/uploads/2025/10/akademi-ogrenci_01-300x300.webp" data-width="300" data-height="300" aria-label="" role="img" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 														</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="../wp-content/uploads/2024/12/sinav-kaygisi-ile-basetme.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="86a5862" data-elementor-lightbox-title="sinav-kaygisi-ile-basetme" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MzU0MjEsInVybCI6Imh0dHBzOlwvXC9nYXppb3NtYW5wYXNhbXVyYXRlZ2l0aW0uY29tLnRyXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMlwvc2luYXYta2F5Z2lzaS1pbGUtYmFzZXRtZS53ZWJwIiwic2xpZGVzaG93IjoiODZhNTg2MiJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantum.abdullahaltun.com.tr/wp-content/uploads/2024/12/sinav-kaygisi-ile-basetme-300x169.webp" data-width="300" data-height="169" aria-label="sınav kaygısıyla baş etme - YKS öğrencisi ders çalışıyor" role="img" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kuantumsayisalakademi.com/wp-content/uploads/2024/12/sinav-kaygisi-ile-basetme-300x169.webp" data-width="300" data-height="169" aria-label="sınav kaygısıyla baş etme - YKS öğrencisi ders çalışıyor" role="img" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 														</a>
 					</div>

@@ -1,0 +1,12 @@
+/* The page itself can paint while off-screen resources finish loading. */
+#phys-preloading { display:none !important; }
+/* Expand touch hit areas, keeping the original 10px pagination dots. */
+.kuantum-hero-dots { gap:0; padding:1px 4px; }
+.kuantum-hero-dots button { position:relative; width:28px; height:28px; background:transparent; }
+.kuantum-hero-dots button::after { content:""; position:absolute; inset:9px; border-radius:50%; background:#84909a; }
+.kuantum-hero-dots button[aria-pressed="true"] { background:transparent; }
+.kuantum-hero-dots button[aria-pressed="true"]::after { background:#876321; }
+
+/* Semantic heading tags retain their original visual sizes. */
+.kuantum-home-title { font-size:var(--phys-font_h4-font-size); line-height:var(--phys-font_h4-line-height); text-transform:var(--phys-font_h4-text-transform); }
+.kuantum-deneme-title { font-size:var(--phys-font_h1-font-size); line-height:var(--phys-font_h1-line-height); text-transform:var(--phys-font_h1-text-transform); }

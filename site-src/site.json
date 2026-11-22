@@ -6,5 +6,10 @@
   "contact_mailto": "mailto:info@kuantumsayisalakademi.com",
   "contact_whatsapp": "https://wa.me/905542182626",
   "contact_map": "https://www.google.com/maps/search/?api=1&amp;query=Kuantum%20Say%C4%B1sal%20Akademi%2C%20Asarc%C4%B1k%20Sokak%20No%3A106%2C%20Do%C4%9Fruyol%20Plaza%2C%20Odunpazar%C4%B1%2C%20Eski%C5%9Fehir",
-  "contact_map_embed": "https://maps.google.com/maps?q=Kuantum%20Say%C4%B1sal%20Akademi%2C%20Asarc%C4%B1k%20Sokak%20No%3A106%2C%20Do%C4%9Fruyol%20Plaza%2C%20Odunpazar%C4%B1%2C%20Eski%C5%9Fehir&amp;t=m&amp;z=17&amp;output=embed"
+  "contact_map_embed": "https://maps.google.com/maps?q=Kuantum%20Say%C4%B1sal%20Akademi%2C%20Asarc%C4%B1k%20Sokak%20No%3A106%2C%20Do%C4%9Fruyol%20Plaza%2C%20Odunpazar%C4%B1%2C%20Eski%C5%9Fehir&amp;t=m&amp;z=17&amp;output=embed",
+  "business_name": "Kuantum Sayısal Akademi",
+  "address_street": "Kurtuluş Mah. Yunusemre Cad. Asarcık Sok. No:106/14 Doğruyol Plaza (7. ve 8. Kat)",
+  "address_locality": "Odunpazarı",
+  "address_region": "Eskişehir",
+  "address_country": "TR"
 }

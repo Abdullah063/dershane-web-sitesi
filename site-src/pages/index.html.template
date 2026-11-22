@@ -7,7 +7,7 @@
 
 
 	<script id="lpData">
-var lpData = {"site_url":"https:\/\/kuantum.abdullahaltun.com.tr","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantum.abdullahaltun.com.tr\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
+var lpData = {"site_url":"https:\/\/kuantumsayisalakademi.com","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantumsayisalakademi.com\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
 </script>
 <script id="lpSettingCourses">
 var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpArchivePaginationType":"number","noLoadCoursesJs":0};
@@ -25,7 +25,7 @@ var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpAr
 
 	<title>Kuantum Sayısal Akademi | Öğretim Kursu</title>
 	<meta name="description" content="Özel Kuantum Sayısal Akademi Öğretim Kursu. Sınıf programları, YKS hazırlık, mentörlük ve öğrenci takibi.">
-	<link rel="canonical" href="https://kuantum.abdullahaltun.com.tr/">
+	<link rel="canonical" href="https://kuantumsayisalakademi.com/">
 
 
 
@@ -198,20 +198,20 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" href="assets/kuantum/brand-theme.css">
 
 <!-- Kuantum social preview -->
-<meta property="og:url" content="https://kuantum.abdullahaltun.com.tr/">
+<meta property="og:url" content="https://kuantumsayisalakademi.com/">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Kuantum Sayısal Akademi">
 <meta property="og:title" content="Kuantum Sayısal Akademi | Öğretim Kursu">
 <meta property="og:description" content="Özel Kuantum Sayısal Akademi Öğretim Kursu. Sınıf programları, YKS hazırlık, mentörlük ve öğrenci takibi.">
-<meta property="og:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta property="og:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Kuantum Sayısal Akademi logosu">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kuantum Sayısal Akademi | Öğretim Kursu">
-<meta name="twitter:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta name="twitter:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 <link rel="stylesheet" href="assets/kuantum/hero.css">
 <script src="assets/kuantum/hero.js" defer></script>
 </head>
@@ -236,7 +236,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-5c47489 e-con-full e-flex e-con e-child" data-id="5c47489" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-f3c1e1d elementor-widget elementor-widget-heading" data-id="f3c1e1d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-					<h4 class="elementor-heading-title elementor-size-default">Sayısal Derslerde Güçlü Bir Temel</h4>				</div>
+					<h1 class="elementor-heading-title elementor-size-default kuantum-home-title">Sayısal Derslerde Güçlü Bir Temel</h1>				</div>
 				<div class="kuantum-subjects" role="region" aria-label="Dersler"><div class="kuantum-subject-track"><div class="kuantum-subject-group"><img src="wp-content/uploads/2025/09/logos-01-300x103.png" alt="Matematik" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-02-300x103.png" alt="Fizik" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-03-300x103.png" alt="Kimya" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-04-300x103.webp" alt="Biyoloji" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-05-300x103.png" alt="Geometri" width="300" height="103" decoding="async"></div><div class="kuantum-subject-group" aria-hidden="true"><img src="wp-content/uploads/2025/09/logos-01-300x103.png" alt="" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-02-300x103.png" alt="" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-03-300x103.png" alt="" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-04-300x103.webp" alt="" width="300" height="103" decoding="async"><img src="wp-content/uploads/2025/09/logos-05-300x103.png" alt="" width="300" height="103" decoding="async"></div></div></div>
 				</div>
 					</div>
@@ -248,7 +248,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-4283221 animated-slow elementor-invisible elementor-widget elementor-widget-thim-ekits-heading" data-id="4283221" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;ekit--slide-up&quot;}" data-widget_type="thim-ekits-heading.default">
 				<div class="elementor-widget-container">
 					<div class="thim-ekits-heading thim-ekit__heading"><h2 class="title">Kariyerine Yatırım Yap: Etkili Eğitim Sistemimizle Tanış</h2>			<div class='desc'>
-				<p>Üniversite hedefin için; küçük gruplarla yürütülen uygulamalı dersler, bire bir mentörlük desteği, tekrar odaklı kurs sistemi ve kişiye özel başarı takibi ile tam öğrenme sağlayan, yapılandırılmış ve öğrenci merkezli bir eğitim modeli seni bekliyor!</p>			</div>
+				<p>Eskişehir Odunpazarı’ndaki Kuantum Sayısal Akademi’de 9, 10, 11 ve 12. sınıf derslerine destek ile YKS hazırlık programlarını bir arada bulabilirsin. Üniversite hedefin için konu öğrenimi, soru çözümü ve mentörlük desteğini planlı bir çalışma süreciyle birleştiriyoruz.</p>			</div>
 		</div>				</div>
 				</div>
 		<div class="elementor-element elementor-element-f6ee86e e-con-full e-grid e-con e-child" data-id="f6ee86e" data-element_type="container" data-e-type="container">
@@ -283,7 +283,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-66b0b12 e-con-full e-flex e-con e-child" data-id="66b0b12" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-db43426 elementor-invisible elementor-widget elementor-widget-heading" data-id="db43426" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-					<h1 class="elementor-heading-title elementor-size-default">Deneme Sınavları </h1>				</div>
+					<h2 class="elementor-heading-title elementor-size-default kuantum-deneme-title">Deneme Sınavları </h2>				</div>
 				<div class="elementor-element elementor-element-9145281 kuantum-publisher-strip" data-id="9145281" role="region" aria-label="Deneme yayınları"><div class="kuantum-publisher-track"><div class="kuantum-publisher-group"><img src="wp-content/uploads/2025/10/3d_logo_01.webp" alt="3D Yayınları" width="160" height="55"><img src="wp-content/uploads/2025/10/ozdebir_logo_02.webp" alt="Özdebir" width="160" height="55"><img src="wp-content/uploads/2025/10/ucdortbes_logo_04.webp" alt="ÜçDörtBeş" width="160" height="55"><img src="wp-content/uploads/2025/10/en-deneme_logo_05.webp" alt="EnDeneme" width="160" height="55"><img src="wp-content/uploads/2025/10/orijinal_yayinlari_logo_06.webp" alt="Orijinal Yayınları" width="160" height="55"><img src="wp-content/uploads/2025/10/bilgi_sarmal_logo_06.webp" alt="Bilgi Sarmal" width="160" height="55"></div><div class="kuantum-publisher-group" aria-hidden="true"><img src="wp-content/uploads/2025/10/3d_logo_01.webp" alt="" width="160" height="55"><img src="wp-content/uploads/2025/10/ozdebir_logo_02.webp" alt="" width="160" height="55"><img src="wp-content/uploads/2025/10/ucdortbes_logo_04.webp" alt="" width="160" height="55"><img src="wp-content/uploads/2025/10/en-deneme_logo_05.webp" alt="" width="160" height="55"><img src="wp-content/uploads/2025/10/orijinal_yayinlari_logo_06.webp" alt="" width="160" height="55"><img src="wp-content/uploads/2025/10/bilgi_sarmal_logo_06.webp" alt="" width="160" height="55"></div></div></div>
 				</div>
 		<div class="elementor-element elementor-element-cee8b11 e-con-full e-flex e-con e-child" data-id="cee8b11" data-element_type="container" data-e-type="container">

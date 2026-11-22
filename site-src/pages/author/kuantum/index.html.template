@@ -7,7 +7,7 @@
 
 
 	<script id="lpData">
-var lpData = {"site_url":"https:\/\/kuantum.abdullahaltun.com.tr","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantum.abdullahaltun.com.tr\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
+var lpData = {"site_url":"https:\/\/kuantumsayisalakademi.com","user_id":0,"theme":"edusmart-child","lp_rest_url":"","nonce":"","is_course_archive":false,"courses_url":"https:\/\/kuantumsayisalakademi.com\/kurslar\/","urlParams":[],"lp_version":"4.4.13","lp_rest_load_ajax":"","ajaxUrl":"","lpAjaxUrl":"","coverImageRatio":5.16,"toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":{"yes":"Evet","cancel":"Vazge\u00e7","generate_with_ai":"Generate with AI","confirm_close_ai":"Are you sure you want to close? Generate data will stop."},"enable_open_ai":false};
 </script>
 <script id="lpSettingCourses">
 var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpArchivePaginationType":"number","noLoadCoursesJs":0};
@@ -24,7 +24,7 @@ var lpSettingCourses = {"lpArchiveLoadAjax":1,"lpArchiveNoLoadAjaxFirst":0,"lpAr
 
 
 	<title>Kuantum Sayısal Akademi, Kuantum Sayısal Akademi sitesinin yazarı</title>
-	<link rel="canonical" href="https://kuantum.abdullahaltun.com.tr/author/kuantum/">
+	<link rel="canonical" href="https://kuantumsayisalakademi.com/author/kuantum/">
 
 
 
@@ -182,20 +182,20 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" href="../../assets/kuantum/brand-theme.css">
 
 <!-- Kuantum social preview -->
-<meta property="og:url" content="https://kuantum.abdullahaltun.com.tr/author/kuantum/">
+<meta property="og:url" content="https://kuantumsayisalakademi.com/author/kuantum/">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Kuantum Sayısal Akademi">
 <meta property="og:title" content="Kuantum Sayısal Akademi, Kuantum Sayısal Akademi sitesinin yazarı">
 <meta property="og:description" content="Özel Kuantum Sayısal Akademi Öğretim Kursu. Sınıf programları, YKS hazırlık, mentörlük ve öğrenci takibi.">
-<meta property="og:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta property="og:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Kuantum Sayısal Akademi logosu">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kuantum Sayısal Akademi, Kuantum Sayısal Akademi sitesinin yazarı">
-<meta name="twitter:image" content="https://kuantum.abdullahaltun.com.tr/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta name="twitter:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
 </head>
 <body class="archive author author-kuantum author-4 wp-embed-responsive wp-theme-edusmart wp-child-theme-edusmart-child hfeed sticky-header elementor-default elementor-kit-34301">
 
@@ -386,11 +386,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='elementor-post-30994-css' href='../../wp-content/uploads/elementor/css/post-30994.css%3Fver=1793478198.css' media='all' />
 <style id="wp-block-paragraph-inline-css">
 .is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
-/*# sourceURL=https://kuantum.abdullahaltun.com.tr/wp-includes/blocks/paragraph/style.min.css */
+/*# sourceURL=https://kuantumsayisalakademi.com/wp-includes/blocks/paragraph/style.min.css */
 </style>
 <style id="wp-block-heading-inline-css">
 h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
-/*# sourceURL=https://kuantum.abdullahaltun.com.tr/wp-includes/blocks/heading/style.min.css */
+/*# sourceURL=https://kuantumsayisalakademi.com/wp-includes/blocks/heading/style.min.css */
 </style>
 <link rel='stylesheet' id='elementor-post-250-css' href='../../wp-content/uploads/elementor/css/post-250.css%3Fver=1793478198.css' media='all' />
 <link rel='stylesheet' id='widget-divider-css' href='../../wp-content/plugins/elementor/assets/css/widget-divider.min.css%3Fver=4.3.5.css' media='all' />

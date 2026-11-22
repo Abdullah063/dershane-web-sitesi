@@ -1,0 +1,26 @@
+{
+  "environment": "Local Lighthouse 13 mobile, simulated throttling. Final server enables gzip to mirror hosting-performance.conf; initial simple server did not. Not a live PageSpeed retest.",
+  "before": {
+    "performance": 55,
+    "accessibility": 80,
+    "best-practices": 100,
+    "seo": 92
+  },
+  "after": {
+    "performance": 74,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "metrics_ms": {
+    "first-contentful-paint": {
+      "before": 7826.183500000001,
+      "after": 1506.3749
+    },
+    "largest-contentful-paint": {
+      "before": 28989.275250000013,
+      "after": 10442.530975
+    }
+  },
+  "remaining": "LCP remains above target. Live results require deployment plus active hosting compression/cache modules and a new PageSpeed run."
+}
