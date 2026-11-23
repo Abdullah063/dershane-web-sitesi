@@ -10,3 +10,16 @@
 /* Semantic heading tags retain their original visual sizes. */
 .kuantum-home-title { font-size:var(--phys-font_h4-font-size); line-height:var(--phys-font_h4-line-height); text-transform:var(--phys-font_h4-text-transform); }
 .kuantum-deneme-title { font-size:var(--phys-font_h1-font-size); line-height:var(--phys-font_h1-line-height); text-transform:var(--phys-font_h1-text-transform); }
+
+/* Keep the contact shortcut above the fixed mobile navigation. */
+@media (max-width:768px) {
+  #okapi-wasb-button {
+    bottom:calc(58px + 16px + env(safe-area-inset-bottom, 0px)) !important;
+    left:16px !important;
+  }
+  #okapi-wasb-icon {
+    display:block;
+    width:56px !important;
+    height:56px !important;
+  }
+}
