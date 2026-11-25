@@ -6,7 +6,7 @@
 			<span></span>
 			<span></span>
 			<span></span>
-		</div><div class="width-logo sm-logo"><a href="{{root}}index.html" title="Kuantum Sayısal Akademi - Üniversite Sınavına Hazırlık" rel="home" class="phys-logo"><img src="{{root}}wp-content/uploads/2025/08/akademi-logo.svg" alt="Kuantum Sayısal Akademi"  data-sticky="{{root}}wp-content/uploads/2025/08/akademi-logo.svg"></a></div>
+		</div><div class="width-logo sm-logo"><a href="{{root}}index.html" title="Kuantum Sayısal Akademi - Üniversite Sınavına Hazırlık" rel="home" class="phys-logo"><img src="{{root}}assets/kuantum/akademi-logo-atom-k.png" alt="Kuantum Sayısal Akademi"  data-sticky="{{root}}assets/kuantum/akademi-logo-atom-k.png"></a></div>
 	<nav class="width-navigation main-navigation table-cell has-menu-right">
 		<div class="inner-navigation">
 

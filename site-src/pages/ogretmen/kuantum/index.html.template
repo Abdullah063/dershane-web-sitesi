@@ -140,9 +140,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			</style>
-			<link rel="icon" href="../../assets/kuantum/kuantum-amblem-seffaf.png" sizes="32x32" />
-<link rel="icon" href="../../assets/kuantum/kuantum-amblem-seffaf.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="../../assets/kuantum/kuantum-amblem-seffaf.png" />
+			<link rel="icon" href="../../assets/kuantum/atom-k-32.png" sizes="32x32" />
+<link rel="icon" href="../../assets/kuantum/atom-k-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../../assets/kuantum/atom-k-180.png" />
 
 <style id="phys-customizer-inline-styles">/* latin-ext */
 @font-face {
@@ -190,14 +190,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <meta property="og:site_name" content="Kuantum Sayısal Akademi">
 <meta property="og:title" content="Öğretmenlerimiz - Kuantum Sayısal Akademi">
 <meta property="og:description" content="Özel Kuantum Sayısal Akademi Öğretim Kursu. Sınıf programları, YKS hazırlık, mentörlük ve öğrenci takibi.">
-<meta property="og:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta property="og:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-atom-k.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Kuantum Sayısal Akademi logosu">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Öğretmenlerimiz - Kuantum Sayısal Akademi">
-<meta name="twitter:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-kuantum-v2.jpg">
+<meta name="twitter:image" content="https://kuantumsayisalakademi.com/assets/kuantum/paylasim-atom-k.jpg">
 </head>
 <body class="wp-singular page-template-default page page-id-33762 wp-embed-responsive wp-theme-edusmart wp-child-theme-edusmart-child sticky-header elementor-default elementor-kit-34301">
 
@@ -260,26 +260,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <a href="{{contact_whatsapp}}" aria-label="WhatsApp üzerinden iletişime geçin" rel="noopener noreferrer" id="okapi-wasb-button" target="_blank">
 	<img id="okapi-wasb-icon" src="../../wp-content/plugins/wa-sticky-button/assets/default.png">
-</a>		<div data-elementor-type="popup" data-elementor-id="35939" class="elementor elementor-35939 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomOut&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
-			<div class="elementor-element elementor-element-44dd25df e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="44dd25df" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
-				<div class="elementor-element elementor-element-515fc243 elementor-widget elementor-widget-image" data-id="515fc243" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-																<a href="../../kayit-ve-basvuru/index.html">
-							<img width="1455" height="1600" src="../../wp-content/uploads/2026/02/erdemderece.jpeg" class="attachment-full size-full wp-image-36102" alt="Kuantum Sayısal Akademi eğitim programları hakkında bilgi alın" srcset="../../wp-content/uploads/2026/02/erdemderece.jpeg 1455w, ../../wp-content/uploads/2026/02/erdemderece-273x300.jpeg 273w, ../../wp-content/uploads/2026/02/erdemderece-931x1024.jpeg 931w, ../../wp-content/uploads/2026/02/erdemderece-768x845.jpeg 768w, ../../wp-content/uploads/2026/02/erdemderece-1397x1536.jpeg 1397w" sizes="(max-width: 1455px) 100vw, 1455px" />								</a>
-															</div>
-		<div class="elementor-element elementor-element-7786bfb e-flex e-con-boxed e-con e-child" data-id="7786bfb" data-element_type="container" data-e-type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7364f7c2 elementor-align-center elementor-widget elementor-widget-button" data-id="7364f7c2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-										<a class="elementor-button elementor-button-link elementor-size-sm" href="../../kayit-ve-basvuru/index.html">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">Programlarımız</span>
-					</span>
-					</a>
-								</div>
-					</div>
-				</div>
-				</div>
-				</div>
-					<script>
+</a>
+<script>
 				( () => {
 					const lazyloadRunObserver = () => {
 						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
@@ -365,7 +347,7 @@ var physc_global_js_var = {"IsSwitchLayout":"","IsWooActive":"","IsMenuEffect":"
 <script id="custom-script-js" src="../../wp-content/themes/edusmart/assets/js/custom-script.min.js%3Fver=1.0.9"></script>
 <script id="elementor-pro-webpack-runtime-js" src="../../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js%3Fver=3.35.1"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"","nonce":"","urls":{"assets":"../../wp-content/plugins\/elementor-pro\/assets\/","rest":""},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+var ElementorProFrontendConfig = {"ajaxurl":"","nonce":"","urls":{"assets":"../../wp-content/plugins\/elementor-pro\/assets\/","rest":""},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
 "facebook_sdk":{"lang":"tr_TR","app_id":""},"lottie":{"defaultAnimationUrl":"../../wp-content/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>

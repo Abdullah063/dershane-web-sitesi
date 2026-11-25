@@ -162,7 +162,7 @@
 
 		<div class="thim-ekit-site-logo">
 							<a href="{{root}}index.html" rel="home" aria-label="Kuantum Sayısal Akademi">
-					<img src="{{root}}wp-content/uploads/2025/08/akademi-logo.svg" title="" alt="" loading="lazy" />				</a>
+					<img src="{{root}}assets/kuantum/akademi-logo-atom-k.png" title="" alt="" loading="lazy" />				</a>
 					</div>
 
 						</div>

@@ -10,6 +10,79 @@
 .kuantum-hero-dots button { width:10px; height:10px; min-height:0; border:0; border-radius:50%; background:#84909a; padding:0; cursor:pointer; }
 .kuantum-hero-dots button[aria-pressed="true"] { background:#876321; }
 
+.kuantum-intro { position:relative; isolation:isolate; background:#0b2035; }
+.kuantum-intro-mobile { display:none; }
+.kuantum-intro .kuantum-hero-slide { position:relative; }
+.kuantum-intro .kuantum-hero-slide img {
+  height:clamp(380px, 42vw, 680px);
+  max-height:none;
+  object-fit:cover;
+}
+.kuantum-intro .kuantum-hero-slide::after {
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg, rgba(8,25,42,.95), rgba(8,25,42,.82) 32%, transparent 78%);
+}
+.kuantum-intro-copy {
+  position:absolute;
+  z-index:1;
+  top:50%;
+  left:max(6%, calc((100% - 1240px) / 2));
+  transform:translateY(-50%);
+  max-width:min(48%, 680px);
+  pointer-events:none;
+}
+.kuantum-intro-copy h1.kuantum-home-title {
+  margin:0 0 24px;
+  color:#fff;
+  font-size:clamp(38px, 4.1vw, 64px);
+  line-height:1.08;
+  letter-spacing:-.025em;
+  text-transform:none;
+  text-wrap:balance;
+}
+.kuantum-intro-actions { display:flex; gap:10px; flex-wrap:wrap; }
+.kuantum-intro-actions a {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:46px;
+  padding:8px 20px;
+  border:1px solid #e7bc70;
+  border-radius:8px;
+  background:#e7bc70;
+  color:#0b2035;
+  font-weight:700;
+  text-decoration:none;
+  pointer-events:auto;
+}
+.kuantum-intro-actions a + a { background:#0b2035; color:#fff; border-color:#ced7df; }
+.kuantum-intro-actions a:hover { background:#fff; color:#0b2035; }
+.kuantum-intro-actions a:focus-visible { outline:3px solid #fff; outline-offset:3px; }
+@media (max-width:1024px) {
+  .kuantum-intro-desktop { display:none; }
+  .kuantum-intro-mobile { display:block; }
+  .kuantum-intro .kuantum-hero-slide img {
+    height:clamp(320px, min(115vw, 64svh), 600px);
+    object-position:center 30%;
+  }
+  .kuantum-intro .kuantum-hero-slide::after {
+    background:linear-gradient(0deg, #091c2f, rgba(9,28,47,.88) 22%, transparent 68%);
+  }
+  .kuantum-intro-copy {
+    inset:auto 18px 52px;
+    max-width:none;
+    transform:none;
+  }
+  .kuantum-intro-copy h1.kuantum-home-title {
+    max-width:22ch;
+    margin-bottom:14px;
+    font-size:clamp(28px, 6vw, 46px);
+  }
+  .kuantum-intro .kuantum-hero > button { top:30%; }
+}
+
 /* Continuous subject strip with two identical groups for a seamless loop. */
 .kuantum-subjects { width:100%; min-width:0; overflow:hidden; }
 .kuantum-subject-track { display:flex; width:max-content; animation:kuantum-subject-scroll 24s linear infinite; }

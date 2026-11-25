@@ -30,8 +30,8 @@ def apply_seo(markup, path, source):
     org_id=domain+'/#academy'
     org={'@type':['EducationalOrganization','LocalBusiness'],'@id':org_id,'name':business['business_name'],'url':domain+'/',
          'telephone':business['contact_tel'].removeprefix('tel:'),'email':business['contact_email'],
-         'logo':domain+'/assets/kuantum/optimized/akademi-logo.svg',
-         'image':domain+'/assets/kuantum/paylasim-kuantum-v2.jpg',
+         'logo':domain+'/assets/kuantum/akademi-logo-atom-k.png',
+         'image':domain+'/assets/kuantum/paylasim-atom-k.jpg',
          'address':{'@type':'PostalAddress','streetAddress':business['address_street'],'addressLocality':business['address_locality'],'addressRegion':business['address_region'],'addressCountry':business['address_country']},
          'hasMap':html.unescape(business['contact_map']),
          'areaServed':{'@type':'City','name':'Eskişehir'}}
