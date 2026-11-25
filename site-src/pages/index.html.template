@@ -95,7 +95,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='thim-ekit-frontend-css' href='wp-content/plugins/thim-elementor-kit/build/frontend.css%3Fver=1.4.8.css' media='all' />
 <link rel='stylesheet' id='thim-ekit-widgets-css' href='wp-content/plugins/thim-elementor-kit/build/widgets.css%3Fver=1.4.8.css' media='all' />
 <link rel='stylesheet' id='e-animation-fadeInUp-css' href='wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css%3Fver=4.3.5.css' media='all' />
-<link rel='stylesheet' id='swiper-css' href='wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css%3Fver=8.4.5.css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
 <link rel='stylesheet' id='e-swiper-css' href='wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css%3Fver=4.3.5.css' media='all' />
 <link rel='stylesheet' id='widget-slides-css' href='wp-content/plugins/elementor-pro/assets/css/widget-slides.min.css%3Fver=3.35.1.css' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='wp-content/plugins/elementor/assets/css/widget-heading.min.css%3Fver=4.3.5.css' media='all' />
@@ -1130,7 +1130,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>
 <script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min.js%3Fver=4.3.5"></script>
 <script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min.js%3Fver=5.0.0"></script>
-<script id="swiper-js" src="wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js%3Fver=8.4.5"></script>
+<script id="swiper-js" src="wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script>
 <script id="jquery-numerator-js" src="wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js%3Fver=0.2.1"></script>
 
 

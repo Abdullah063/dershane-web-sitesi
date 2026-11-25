@@ -19,7 +19,7 @@ class References(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
-        urls = [attrs[k] for k in ('src', 'href', 'action', 'data-sticky') if attrs.get(k)]
+        urls = [attrs[k] for k in ('src', 'href', 'action', 'data-sticky', 'data-thumbnail') if attrs.get(k)]
         if attrs.get('srcset'):
             urls.extend(item.strip().split()[0] for item in attrs['srcset'].split(','))
         for url in urls:
@@ -75,6 +75,10 @@ def main():
         if widget in widgets and not (ROOT / 'wp-content/plugins/elementor/assets/js/chunks' / (chunk + '.min.js')).is_file():
             errors.append(f'Missing dynamic chunk for {widget}')
     if 'gallery.default' in widgets:
+        for asset in ('lib/swiper/v8/swiper.min.js', 'lib/swiper/v8/css/swiper.min.css',
+                      'css/conditionals/lightbox.min.css', 'lib/share-link/share-link.min.js'):
+            if not (ROOT / 'wp-content/plugins/elementor/assets' / asset).is_file():
+                errors.append(f'Missing gallery runtime asset: {asset}')
         runtime = (ROOT / 'wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1').read_text()
         match = re.search(r'"(gallery\.[a-f0-9]+\.bundle\.min\.js)"', runtime)
         if not match or not (ROOT / 'wp-content/plugins/elementor-pro/assets/js' / match[1]).is_file():
