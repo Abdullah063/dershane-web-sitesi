@@ -83,6 +83,12 @@
   .kuantum-intro .kuantum-hero > button { top:30%; }
 }
 
+/* Keep course navigation arrows within the tablet page gutters. */
+@media (min-width: 768px) and (max-width: 1366px) {
+  .physc-tabs-flex .tab-prev { left:-16px; }
+  .physc-tabs-flex .tab-next { right:-16px; }
+}
+
 /* Continuous subject strip with two identical groups for a seamless loop. */
 .kuantum-subjects { width:100%; min-width:0; overflow:hidden; }
 .kuantum-subject-track { display:flex; width:max-content; animation:kuantum-subject-scroll 24s linear infinite; }

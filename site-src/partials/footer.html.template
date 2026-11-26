@@ -143,7 +143,7 @@
 									<i aria-hidden="true" class="tk tk-phone"></i>								</span>{{contact_phone}}</a>
 												</li>
 												<li>
-														<a href="{{contact_mailto}}" target="_blank">
+														<a href="{{contact_mailto}}" target="_blank" style="overflow-wrap: anywhere">
 																									<span>
 									<i aria-hidden="true" class="tk tk-envelope"></i>								</span>{{contact_email}}</a>
 												</li>
