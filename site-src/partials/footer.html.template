@@ -1,5 +1,5 @@
 <aside id="analytics-consent" aria-label="Analitik çerez tercihleri" hidden>
-	<p>Ziyaretçi sayısını ve hangi sayfaların görüntülendiğini Google Analytics ile ölçmemize izin verir misiniz?</p>
+	<p>Ziyaretleri ölçmek için Google Analytics çerezlerine izin veriyor musunuz?</p>
 	<div>
 		<button type="button" data-choice="denied">Reddet</button>
 		<button type="button" data-choice="granted">Kabul et</button>

@@ -32,7 +32,7 @@ def render_source(path, metadata):
         raise ValueError(f'{path}: unresolved template fields: {unresolved}')
     page = improve(apply_seo(page, path, SOURCE), path, ROOT, SOURCE)
     # Share the small consent stylesheet across the page-specific CSS bundles.
-    return page.replace('</head>', f'<link rel="stylesheet" href="{prefix}assets/kuantum/analytics.css">\n</head>')
+    return page.replace('</head>', f'<link rel="stylesheet" href="{prefix}assets/kuantum/analytics.css?v=2">\n</head>')
 
 
 def render(path, metadata):
