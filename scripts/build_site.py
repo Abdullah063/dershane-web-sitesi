@@ -25,11 +25,14 @@ def render_source(path, metadata):
     page = TOKEN.sub(include, page)
     values = {**json.loads((SOURCE / 'site.json').read_text()), **metadata.get('values', {})}
     page = TOKEN.sub(lambda m: values.get(m[1], m[0]), page)
-    page = page.replace('{{root}}', '../' * (len(Path(path).parts) - 1))
+    prefix = '../' * (len(Path(path).parts) - 1)
+    page = page.replace('{{root}}', prefix)
     unresolved = TOKEN.findall(page)
     if unresolved:
         raise ValueError(f'{path}: unresolved template fields: {unresolved}')
-    return improve(apply_seo(page, path, SOURCE), path, ROOT, SOURCE)
+    page = improve(apply_seo(page, path, SOURCE), path, ROOT, SOURCE)
+    # Share the small consent stylesheet across the page-specific CSS bundles.
+    return page.replace('</head>', f'<link rel="stylesheet" href="{prefix}assets/kuantum/analytics.css">\n</head>')
 
 
 def render(path, metadata):
